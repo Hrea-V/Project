@@ -10,7 +10,7 @@ public class Task1 {
         int last = (Array.getLength(numbers) - 1);
         System.out.println("The first number is: " + numbers[0]);
         System.out.println("The last number is: " + numbers[last]);
-        int diff = 0;
+        int diff;
         if (numbers[0] <= 0){
             diff = ((numbers[0]) + numbers[last]);
         } else {
