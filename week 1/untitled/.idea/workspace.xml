@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a47b7bd-8694-4f17-98f3-a4dc275c8b8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Conditionals/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conditionals/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conditionals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conditionals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conditionals/Conditionals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conditionals/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Types/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Types/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Types/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Types/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Types/Data Types.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Types/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello world/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello world/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello world/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello world/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello world/Hello world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello world/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operators/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operators/Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operators/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String Methods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String Methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String Methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String Methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String Methods/String Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String Methods/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../do while Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../do while Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../do while Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../do while Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../do while Loop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../do while Loop/do while Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../do while Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../for Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../for Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../for Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../for Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../for Loop/for Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../for Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreach Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreach Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreach Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreach Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreach Loop/foreach Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../foreach Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../while Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../while Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../while Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../while Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../while Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../while Loop/while Loop.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2fMB1gb1P04DPh1kI5mzfcSVJf8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/darkn/IdeaProjects/week 1/Conditionals",
+    "onboarding.tips.debug.path": "C:/Users/darkn/IdeaProjects/week 1/untitled/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a47b7bd-8694-4f17-98f3-a4dc275c8b8d" name="Changes" comment="" />
+      <created>1713600852622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713600852622</updated>
+    </task>
+    <servers />
+  </component>
+</project>
