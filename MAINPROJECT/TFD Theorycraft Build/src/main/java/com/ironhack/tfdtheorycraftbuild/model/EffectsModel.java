@@ -1,7 +1,9 @@
 package com.ironhack.tfdtheorycraftbuild.model;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
 import jakarta.persistence.*;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.util.List;
 
@@ -9,6 +11,8 @@ import static jakarta.persistence.GenerationType.IDENTITY;
 
 @Data
 @Table(name = "effects")
+@NoArgsConstructor
+@JsonInclude(JsonInclude.Include.NON_NULL)
 @Entity
 public class EffectsModel {
     @Id
@@ -26,5 +30,7 @@ public class EffectsModel {
     @OneToMany(mappedBy = "effect", cascade = CascadeType.ALL)
     private List<SkillsModel> skills;
 
-
+    public EffectsModel(String name) {
+        this.name = name;
+    }
 }

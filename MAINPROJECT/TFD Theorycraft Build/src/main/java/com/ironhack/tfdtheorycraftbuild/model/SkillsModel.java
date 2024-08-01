@@ -1,5 +1,6 @@
 package com.ironhack.tfdtheorycraftbuild.model;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -9,6 +10,7 @@ import static jakarta.persistence.GenerationType.IDENTITY;
 @Data
 @Table( name = "skills")
 @Entity
+@JsonInclude(JsonInclude.Include.NON_NULL)
 @NoArgsConstructor
 public class SkillsModel {
     @Id
