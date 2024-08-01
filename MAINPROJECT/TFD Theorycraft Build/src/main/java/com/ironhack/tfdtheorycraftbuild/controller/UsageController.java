@@ -23,11 +23,18 @@ public class UsageController {
         return buildsService.getBuilds();
     }
     //Add a new build
-    @PostMapping("/add/{characterId}/{buildName}/{maxCapacity}/{currentCapacity}/{mod1}/{mod2}/{mod3}/{mod4}/{mod5}/{mod6}/{mod7}/{mod8}")
+    @PostMapping("/add/CharacterId/{characterId}/BuildName/{buildName}/MaxCapacity/{maxCapacity}/CurrentCapacity/{currentCapacity}/mod1/{mod1}/mod2/{mod2}/mod3/{mod3}/mod4/{mod4}/mod5/{mod5}/mod6/{mod6}/mod7/{mod7}/mod8/{mod8}")
     @ResponseStatus(HttpStatus.CREATED)
     //String buildName, Integer characters, Integer maxCapacity, Integer currentCapacity, Integer mod1, Integer mod2, Integer mod3, Integer mod4, Integer mod5, Integer mod6, Integer mod7, Integer mod8
     public void addBuild(@PathVariable Integer characterId, @PathVariable String buildName, @PathVariable Integer maxCapacity, @PathVariable Integer currentCapacity, @PathVariable Integer mod1, @PathVariable Integer mod2, @PathVariable Integer mod3, @PathVariable Integer mod4, @PathVariable Integer mod5, @PathVariable Integer mod6, @PathVariable Integer mod7, @PathVariable Integer mod8) {
         buildsService.addBuild(buildName, characterId, maxCapacity, currentCapacity, mod1, mod2, mod3, mod4, mod5, mod6, mod7, mod8);
+    }
+
+    //Update a build
+    @PutMapping("/update/{buildId}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void updateBuild(@PathVariable Integer buildId, @RequestBody BuildsModels buildsModels) {
+        buildsService.updateBuild(buildId, buildsModels);
     }
 
     //Delete a build
