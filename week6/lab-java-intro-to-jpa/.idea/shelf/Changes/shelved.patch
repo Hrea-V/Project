@@ -1,0 +1,3480 @@
+Index: ../../week 1/Conditionals/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/Conditionals/.idea/.gitignore b/../../week 1/Conditionals/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Conditionals/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/Data Types/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/Data Types/.idea/.gitignore b/../../week 1/Data Types/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Data Types/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/Data Types/.gitignore
+===================================================================
+diff --git a/../../week 1/Data Types/.gitignore b/../../week 1/Data Types/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Data Types/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/do while Loop/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/do while Loop/.idea/.gitignore b/../../week 1/do while Loop/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/do while Loop/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/do while Loop/.gitignore
+===================================================================
+diff --git a/../../week 1/do while Loop/.gitignore b/../../week 1/do while Loop/.gitignore
+deleted file mode 100644
+--- a/../../week 1/do while Loop/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/Example/asd/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/Example/asd/.idea/.gitignore b/../../week 1/Example/asd/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Example/asd/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/Example/asd/.gitignore
+===================================================================
+diff --git a/../../week 1/Example/asd/.gitignore b/../../week 1/Example/asd/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Example/asd/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/Example/asdasdasd/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/Example/asdasdasd/.idea/.gitignore b/../../week 1/Example/asdasdasd/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Example/asdasdasd/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/Example/asdasdasd/.gitignore
+===================================================================
+diff --git a/../../week 1/Example/asdasdasd/.gitignore b/../../week 1/Example/asdasdasd/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Example/asdasdasd/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/for Loop/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/for Loop/.idea/.gitignore b/../../week 1/for Loop/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/for Loop/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/for Loop/.gitignore
+===================================================================
+diff --git a/../../week 1/for Loop/.gitignore b/../../week 1/for Loop/.gitignore
+deleted file mode 100644
+--- a/../../week 1/for Loop/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/foreach Loop/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/foreach Loop/.idea/.gitignore b/../../week 1/foreach Loop/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/foreach Loop/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/foreach Loop/.gitignore
+===================================================================
+diff --git a/../../week 1/foreach Loop/.gitignore b/../../week 1/foreach Loop/.gitignore
+deleted file mode 100644
+--- a/../../week 1/foreach Loop/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/Hello world/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/Hello world/.idea/.gitignore b/../../week 1/Hello world/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Hello world/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/Hello world/.gitignore
+===================================================================
+diff --git a/../../week 1/Hello world/.gitignore b/../../week 1/Hello world/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Hello world/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/Operators/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/Operators/.idea/.gitignore b/../../week 1/Operators/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Operators/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/Operators/.gitignore
+===================================================================
+diff --git a/../../week 1/Operators/.gitignore b/../../week 1/Operators/.gitignore
+deleted file mode 100644
+--- a/../../week 1/Operators/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/String Methods/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/String Methods/.idea/.gitignore b/../../week 1/String Methods/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/String Methods/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/String Methods/.gitignore
+===================================================================
+diff --git a/../../week 1/String Methods/.gitignore b/../../week 1/String Methods/.gitignore
+deleted file mode 100644
+--- a/../../week 1/String Methods/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/while Loop/.idea/.gitignore
+===================================================================
+diff --git a/../../week 1/while Loop/.idea/.gitignore b/../../week 1/while Loop/.idea/.gitignore
+deleted file mode 100644
+--- a/../../week 1/while Loop/.idea/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../../week 1/while Loop/.gitignore
+===================================================================
+diff --git a/../../week 1/while Loop/.gitignore b/../../week 1/while Loop/.gitignore
+deleted file mode 100644
+--- a/../../week 1/while Loop/.gitignore	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,29 +0,0 @@
+-### IntelliJ IDEA ###
+-out/
+-!**/src/main/**/out/
+-!**/src/test/**/out/
+-
+-### Eclipse ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-bin/
+-!**/src/main/**/bin/
+-!**/src/test/**/bin/
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Mac OS ###
+-.DS_Store
+\ No newline at end of file
+Index: ../../week 1/Example/asd/asd.iml
+===================================================================
+diff --git a/../../week 1/Example/asd/asd.iml b/../../week 1/Example/asd/asd.iml
+deleted file mode 100644
+--- a/../../week 1/Example/asd/asd.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/Example/asdasdasd/asdasdasd.iml
+===================================================================
+diff --git a/../../week 1/Example/asdasdasd/asdasdasd.iml b/../../week 1/Example/asdasdasd/asdasdasd.iml
+deleted file mode 100644
+--- a/../../week 1/Example/asdasdasd/asdasdasd.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/Conditionals/Conditionals.iml
+===================================================================
+diff --git a/../../week 1/Conditionals/Conditionals.iml b/../../week 1/Conditionals/Conditionals.iml
+deleted file mode 100644
+--- a/../../week 1/Conditionals/Conditionals.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/Data Types/Data Types.iml
+===================================================================
+diff --git a/../../week 1/Data Types/Data Types.iml b/../../week 1/Data Types/Data Types.iml
+deleted file mode 100644
+--- a/../../week 1/Data Types/Data Types.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/do while Loop/do while Loop.iml
+===================================================================
+diff --git a/../../week 1/do while Loop/do while Loop.iml b/../../week 1/do while Loop/do while Loop.iml
+deleted file mode 100644
+--- a/../../week 1/do while Loop/do while Loop.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/for Loop/for Loop.iml
+===================================================================
+diff --git a/../../week 1/for Loop/for Loop.iml b/../../week 1/for Loop/for Loop.iml
+deleted file mode 100644
+--- a/../../week 1/for Loop/for Loop.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/foreach Loop/foreach Loop.iml
+===================================================================
+diff --git a/../../week 1/foreach Loop/foreach Loop.iml b/../../week 1/foreach Loop/foreach Loop.iml
+deleted file mode 100644
+--- a/../../week 1/foreach Loop/foreach Loop.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/Hello world/Hello world.iml
+===================================================================
+diff --git a/../../week 1/Hello world/Hello world.iml b/../../week 1/Hello world/Hello world.iml
+deleted file mode 100644
+--- a/../../week 1/Hello world/Hello world.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/Conditionals/src/Main.java
+===================================================================
+diff --git a/../../week 1/Conditionals/src/Main.java b/../../week 1/Conditionals/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/Conditionals/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,43 +0,0 @@
+-public class Main{
+-    public static void main(String[] args){
+-        int var1 = 10;
+-        double var2 = 5.5;
+-        String var3 = "Hello World";
+-
+-        // If...Else
+-        if(var1 > 10) {
+-            System.out.println("Too much!");
+-        } else if(var1 < 10) {
+-            System.out.println("Too little!");
+-        } else {
+-            System.out.println("Just right!");
+-        }
+-
+-        // Switch
+-        int day = 4;
+-        switch (day) {
+-            case 1:
+-                System.out.println("Monday");
+-                break;
+-            case 2:
+-                System.out.println("Tuesday");
+-                break;
+-            case 3:
+-                System.out.println("Wednesday");
+-                break;
+-            case 4:
+-                System.out.println("Thursday");
+-                break;
+-            case 5:
+-                System.out.println("Friday");
+-                break;
+-            default:
+-                System.out.println("Weekend");
+-                break;
+-        }
+-
+-        // Ternary operators
+-        String result = day < 6? "Weekday": "Weekend";
+-        System.out.println(result);
+-    }
+-}
+\ No newline at end of file
+Index: ../../week 1/Data Types/src/Main.java
+===================================================================
+diff --git a/../../week 1/Data Types/src/Main.java b/../../week 1/Data Types/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/Data Types/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,12 +0,0 @@
+-public class Main{
+-    public static void main(String[] args){
+-        // Data types
+-        int var1 = 10;
+-        double var2 = 5.5;
+-        String var3 = "Hello World";
+-
+-        System.out.println(var1);
+-        System.out.println(var2);
+-        System.out.println(var3);
+-    }
+-}
+\ No newline at end of file
+Index: ../../week 1/do while Loop/src/Main.java
+===================================================================
+diff --git a/../../week 1/do while Loop/src/Main.java b/../../week 1/do while Loop/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/do while Loop/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,23 +0,0 @@
+-public class Main {
+-
+-    public static void main(String[] args) {
+-
+-
+-
+-        String[] names = {"Cristina", "Paul", "Maria", "John"};
+-        
+-        System.out.println("==== Do while ====");
+-
+-        int i = 0;
+-
+-        do {
+-
+-            System.out.println(names[i++]);
+-
+-        } while(i < names.length);
+-
+-    }
+-
+-}
+-
+-
+Index: ../../week 1/Example/asdasdasd/src/Main.java
+===================================================================
+diff --git a/../../week 1/Example/asdasdasd/src/Main.java b/../../week 1/Example/asdasdasd/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/Example/asdasdasd/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,27 +0,0 @@
+-public class Main {
+-
+-    public static void main(String[] args) {
+-
+-        int var1 = 45;
+-
+-        double var2 = 5.5;
+-
+-        String var3 = "Hello World";
+-
+-
+-        // If...Else
+-
+-        if (var1 > 50) {
+-
+-            System.out.println("Too much!");
+-
+-        } else if (var1 < 40) {
+-
+-            System.out.println("Too little!");
+-        } else if (var1 >= 41 && var1 <= 44 || var1 >=46 && var1 <=49) {
+-            System.out.println("Close!");
+-        } else {
+-            System.out.println("just right");
+-        }
+-    }
+-}
+\ No newline at end of file
+Index: ../../week 1/for Loop/src/Main.java
+===================================================================
+diff --git a/../../week 1/for Loop/src/Main.java b/../../week 1/for Loop/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/for Loop/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,21 +0,0 @@
+-public class Main {
+-
+-    public static void main(String[] args) {
+-
+-
+-
+-        String[] names = {"Cristina", "Paul", "Maria", "John"};
+-
+-
+-
+-        System.out.println("==== For ====");
+-
+-        for (int i=0; i< names.length; i++) {
+-
+-            System.out.println(names[i]);
+-
+-        }
+-
+-    }
+-
+-}
+\ No newline at end of file
+Index: ../../week 1/foreach Loop/src/Main.java
+===================================================================
+diff --git a/../../week 1/foreach Loop/src/Main.java b/../../week 1/foreach Loop/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/foreach Loop/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,19 +0,0 @@
+-public class Main {
+-
+-    public static void main(String[] args) {
+-
+-
+-
+-        String[] names = {"Cristina", "Paul", "Maria", "John"};
+-
+-        System.out.println("==== Foreach ====");
+-
+-        for (String name : names) {
+-
+-            System.out.println(name);
+-
+-        }
+-
+-    }
+-
+-}
+\ No newline at end of file
+Index: ../../week 1/Hello world/src/Main.java
+===================================================================
+diff --git a/../../week 1/Hello world/src/Main.java b/../../week 1/Hello world/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/Hello world/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,9 +0,0 @@
+-public class Main {
+-
+-    public static void main(String[] args) {
+-
+-        System.out.println("Hello World !");
+-
+-    }
+-
+-}
+\ No newline at end of file
+Index: ../../week 1/Operators/src/Main.java
+===================================================================
+diff --git a/../../week 1/Operators/src/Main.java b/../../week 1/Operators/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/Operators/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,27 +0,0 @@
+-public class Main{
+-
+-    public static void main(String[] args){
+-
+-        // Operators
+-
+-        System.out.println(10 + 5);
+-
+-        System.out.println(10 - 5);
+-
+-        System.out.println(10 * 5);
+-
+-        System.out.println(10 / 2);
+-
+-        System.out.println(10 % 2);
+-
+-
+-
+-        int var5 = 1;
+-
+-        System.out.println(var5++); // Show differences between var5++ and ++var5
+-
+-        System.out.println(var5);
+-
+-    }
+-
+-}
+\ No newline at end of file
+Index: ../../week 1/String Methods/src/Main.java
+===================================================================
+diff --git a/../../week 1/String Methods/src/Main.java b/../../week 1/String Methods/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/String Methods/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,23 +0,0 @@
+-public class Main{
+-
+-    public static void main(String[] args){
+-
+-        String word = "Hello";
+-
+-
+-
+-        // String methods
+-
+-        System.out.println(word + " World!");
+-
+-        System.out.println(word.length());
+-
+-        System.out.println(word.toUpperCase());
+-
+-        System.out.println(word.toLowerCase());
+-
+-
+-
+-    }
+-
+-}
+\ No newline at end of file
+Index: ../../week 1/while Loop/src/Main.java
+===================================================================
+diff --git a/../../week 1/while Loop/src/Main.java b/../../week 1/while Loop/src/Main.java
+deleted file mode 100644
+--- a/../../week 1/while Loop/src/Main.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,21 +0,0 @@
+-public class Main {
+-
+-    public static void main(String[] args) {
+-
+-
+-
+-        String[] names = {"Cristina", "Paul", "Maria", "John"};
+-
+-        System.out.println("==== While ====");
+-
+-        int i =0;
+-
+-        while(i < names.length) {
+-
+-            System.out.println(names[i++]);
+-
+-        }
+-
+-    }
+-
+-}
+\ No newline at end of file
+Index: ../../week 1/Conditionals/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/Conditionals/.idea/misc.xml b/../../week 1/Conditionals/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/Conditionals/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Data Types/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/Data Types/.idea/misc.xml b/../../week 1/Data Types/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/Data Types/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/do while Loop/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/do while Loop/.idea/misc.xml b/../../week 1/do while Loop/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/do while Loop/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Example/asd/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/Example/asd/.idea/misc.xml b/../../week 1/Example/asd/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/Example/asd/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Example/asdasdasd/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/Example/asdasdasd/.idea/misc.xml b/../../week 1/Example/asdasdasd/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/Example/asdasdasd/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/for Loop/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/for Loop/.idea/misc.xml b/../../week 1/for Loop/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/for Loop/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/foreach Loop/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/foreach Loop/.idea/misc.xml b/../../week 1/foreach Loop/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/foreach Loop/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Hello world/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/Hello world/.idea/misc.xml b/../../week 1/Hello world/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/Hello world/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Operators/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/Operators/.idea/misc.xml b/../../week 1/Operators/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/Operators/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/String Methods/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/String Methods/.idea/misc.xml b/../../week 1/String Methods/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/String Methods/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/while Loop/.idea/misc.xml
+===================================================================
+diff --git a/../../week 1/while Loop/.idea/misc.xml b/../../week 1/while Loop/.idea/misc.xml
+deleted file mode 100644
+--- a/../../week 1/while Loop/.idea/misc.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Conditionals/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/Conditionals/.idea/modules.xml b/../../week 1/Conditionals/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/Conditionals/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Data Types/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/Data Types/.idea/modules.xml b/../../week 1/Data Types/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/Data Types/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/Data Types.iml" filepath="$PROJECT_DIR$/Data Types.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/do while Loop/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/do while Loop/.idea/modules.xml b/../../week 1/do while Loop/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/do while Loop/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/do while Loop.iml" filepath="$PROJECT_DIR$/do while Loop.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Example/asd/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/Example/asd/.idea/modules.xml b/../../week 1/Example/asd/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/Example/asd/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/asd.iml" filepath="$PROJECT_DIR$/asd.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Example/asdasdasd/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/Example/asdasdasd/.idea/modules.xml b/../../week 1/Example/asdasdasd/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/Example/asdasdasd/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/asdasdasd.iml" filepath="$PROJECT_DIR$/asdasdasd.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/for Loop/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/for Loop/.idea/modules.xml b/../../week 1/for Loop/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/for Loop/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/for Loop.iml" filepath="$PROJECT_DIR$/for Loop.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/foreach Loop/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/foreach Loop/.idea/modules.xml b/../../week 1/foreach Loop/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/foreach Loop/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/foreach Loop.iml" filepath="$PROJECT_DIR$/foreach Loop.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Hello world/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/Hello world/.idea/modules.xml b/../../week 1/Hello world/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/Hello world/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/Hello world.iml" filepath="$PROJECT_DIR$/Hello world.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Operators/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/Operators/.idea/modules.xml b/../../week 1/Operators/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/Operators/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/Operators.iml" filepath="$PROJECT_DIR$/Operators.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/String Methods/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/String Methods/.idea/modules.xml b/../../week 1/String Methods/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/String Methods/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/String Methods.iml" filepath="$PROJECT_DIR$/String Methods.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/while Loop/.idea/modules.xml
+===================================================================
+diff --git a/../../week 1/while Loop/.idea/modules.xml b/../../week 1/while Loop/.idea/modules.xml
+deleted file mode 100644
+--- a/../../week 1/while Loop/.idea/modules.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/while Loop.iml" filepath="$PROJECT_DIR$/while Loop.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Operators/Operators.iml
+===================================================================
+diff --git a/../../week 1/Operators/Operators.iml b/../../week 1/Operators/Operators.iml
+deleted file mode 100644
+--- a/../../week 1/Operators/Operators.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/String Methods/String Methods.iml
+===================================================================
+diff --git a/../../week 1/String Methods/String Methods.iml b/../../week 1/String Methods/String Methods.iml
+deleted file mode 100644
+--- a/../../week 1/String Methods/String Methods.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/Conditionals/.idea/vcs.xml
+===================================================================
+diff --git a/../../week 1/Conditionals/.idea/vcs.xml b/../../week 1/Conditionals/.idea/vcs.xml
+deleted file mode 100644
+--- a/../../week 1/Conditionals/.idea/vcs.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/do while Loop/.idea/vcs.xml
+===================================================================
+diff --git a/../../week 1/do while Loop/.idea/vcs.xml b/../../week 1/do while Loop/.idea/vcs.xml
+deleted file mode 100644
+--- a/../../week 1/do while Loop/.idea/vcs.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Example/asd/.idea/vcs.xml
+===================================================================
+diff --git a/../../week 1/Example/asd/.idea/vcs.xml b/../../week 1/Example/asd/.idea/vcs.xml
+deleted file mode 100644
+--- a/../../week 1/Example/asd/.idea/vcs.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/Example/asdasdasd/.idea/vcs.xml
+===================================================================
+diff --git a/../../week 1/Example/asdasdasd/.idea/vcs.xml b/../../week 1/Example/asdasdasd/.idea/vcs.xml
+deleted file mode 100644
+--- a/../../week 1/Example/asdasdasd/.idea/vcs.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/untitled/.idea/vcs.xml
+===================================================================
+diff --git a/../../week 1/untitled/.idea/vcs.xml b/../../week 1/untitled/.idea/vcs.xml
+deleted file mode 100644
+--- a/../../week 1/untitled/.idea/vcs.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../../week 1/while Loop/while Loop.iml
+===================================================================
+diff --git a/../../week 1/while Loop/while Loop.iml b/../../week 1/while Loop/while Loop.iml
+deleted file mode 100644
+--- a/../../week 1/while Loop/while Loop.iml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../../week 1/untitled/.idea/workspace.xml
+===================================================================
+diff --git a/../../week 1/untitled/.idea/workspace.xml b/../../week 1/untitled/.idea/workspace.xml
+deleted file mode 100644
+--- a/../../week 1/untitled/.idea/workspace.xml	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ /dev/null	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
+@@ -1,119 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ChangeListManager">
+-    <list default="true" id="1a47b7bd-8694-4f17-98f3-a4dc275c8b8d" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/../../Conditionals/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Conditionals/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Conditionals/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Conditionals/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Conditionals/Conditionals.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Conditionals/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Data Types/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Data Types/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Data Types/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Data Types/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Data Types/Data Types.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Data Types/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Hello world/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Hello world/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Hello world/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Hello world/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Hello world/Hello world.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Hello world/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Operators/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Operators/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Operators/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Operators/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Operators/Operators.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../Operators/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../String Methods/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../String Methods/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../String Methods/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../String Methods/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../String Methods/String Methods.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../String Methods/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../do while Loop/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../do while Loop/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../do while Loop/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../do while Loop/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../do while Loop/.idea/vcs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../do while Loop/do while Loop.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../do while Loop/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../for Loop/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../for Loop/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../for Loop/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../for Loop/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../for Loop/for Loop.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../for Loop/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../foreach Loop/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../foreach Loop/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../foreach Loop/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../foreach Loop/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../foreach Loop/foreach Loop.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../foreach Loop/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../while Loop/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../while Loop/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../while Loop/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../while Loop/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../while Loop/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../../while Loop/while Loop.iml" beforeDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+-  </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 3
+-}]]></component>
+-  <component name="ProjectId" id="2fMB1gb1P04DPh1kI5mzfcSVJf8" />
+-  <component name="ProjectLevelVcsManager">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/darkn/IdeaProjects/week 1/Conditionals",
+-    "onboarding.tips.debug.path": "C:/Users/darkn/IdeaProjects/week 1/untitled/src/Main.java"
+-  }
+-}]]></component>
+-  <component name="RunManager">
+-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+-      <setting name="path" value="" />
+-      <setting name="vmparams" value="" />
+-      <setting name="params" value="" />
+-      <setting name="workDir" value="file://$PROJECT_DIR$" />
+-      <setting name="debug" value="false" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="1a47b7bd-8694-4f17-98f3-a4dc275c8b8d" name="Changes" comment="" />
+-      <created>1713600852622</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1713600852622</updated>
+-    </task>
+-    <servers />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/LocationRepositoryTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/LocationRepositoryTest.java b/../HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/LocationRepositoryTest.java
+new file mode 100644
+--- /dev/null	(date 1717249088234)
++++ b/../HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/LocationRepositoryTest.java	(date 1717249088234)
+@@ -0,0 +1,68 @@
++package com.ironhack.hellolordofjpa.repository;
++
++
++import com.ironhack.hellolordofjpa.model.Location;
++import org.junit.jupiter.api.BeforeEach;
++import org.junit.jupiter.api.Test;
++import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
++
++import java.util.List;
++
++import static org.junit.jupiter.api.Assertions.assertEquals;
++
++@DataJpaTest
++public class LocationRepositoryTest {
++
++    @Autowired
++    private LocationRepository locationRepository;
++
++    @BeforeEach
++    void setUp() {
++        locationRepository.deleteAll();
++
++        Location location1 = new Location("London", "Capital of England");
++        Location location2 = new Location("Paris", "Capital of France");
++        Location location3 = new Location("Berlin", "Capital of Germany");
++
++        locationRepository.saveAll(List.of(location1, location2, location3));
++    }
++
++    //Test the LocationRepository methods
++    //
++    //    findByName_ShouldReturnLocation_WhenNameExists
++    //    findByDescriptionContaining_ShouldReturnLocations_WhenDescriptionContainsKeyword
++    //    findByNameStartingWith_ShouldReturnLocations_WhenNameStartsWithPrefix
++    //    findByNameIgnoreCase_ShouldReturnLocations_WhenNameMatches
++
++    @Test
++    void findByName_ShouldReturnLocation_WhenNameExists() {
++        List<Location> location = locationRepository.findByName("London");
++        assertEquals(1, location.size());
++        assertEquals("London", location.get(0).getName());
++    }
++
++
++    @Test
++    void findByDescriptionContaining_ShouldReturnLocations_WhenDescriptionContainsKeyword() {
++        List<Location> locations = locationRepository.findByDescriptionContaining("Capital");
++        assertEquals(3, locations.size());
++    }
++
++
++    @Test
++    void findByNameStartingWith_ShouldReturnLocations_WhenNameStartsWithPrefix() {
++        List<Location> locations = locationRepository.findByNameStartingWith("B");
++        assertEquals(1, locations.size());
++    }
++
++
++    @Test
++    void findByNameIgnoreCase_ShouldReturnLocations_WhenNameMatches() {
++        List<Location> locations = locationRepository.findByNameContainingIgnoreCase("berlin");
++        assertEquals(1, locations.size());
++        assertEquals("Berlin", locations.get(0).getName());
++    }
++
++
++}
+Index: ../../Assestment/src/main/java/org/example/test/main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Assestment/src/main/java/org/example/test/main.java b/../../Assestment/src/main/java/org/example/test/main.java
+new file mode 100644
+--- /dev/null	(date 1716040063579)
++++ b/../../Assestment/src/main/java/org/example/test/main.java	(date 1716040063579)
+@@ -0,0 +1,36 @@
++package org.example.test;
++
++public class main {
++    public static String rps(String p1, String p2) {
++
++        if (p1.equals("rock")) {
++            if (p2.equals("scissors")) {
++                return "Player 1 wins!";
++            } else if (p2.equals("paper")) {
++                return "Player 2 wins!";
++            } else if (p2.equals("rock")) {
++                return "It's a tie!";
++            }
++        } else if (p1.equals("scissors")) {
++            if (p2.equals("rock")) {
++                return "Player 2 wins!";
++            } else if (p2.equals("paper")) {
++                return "Player 1 wins!";
++            } else if (p2.equals("scissors")) {
++                return "It's a tie!";
++            }
++        }else if (p1.equals("paper")){
++            if (p2.equals("rock")) {
++                return "Player 1 wins!";
++            } else if (p2.equals("scissors")) {
++                return "Player 2 wins!";
++            } else if (p2.equals("paper")) {
++                return "It's a tie!";
++            }
++        }
++
++
++
++        return "";
++    }
++}
+Index: ../../week4/MYSQL/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week4/MYSQL/.idea/misc.xml b/../../week4/MYSQL/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1716632524454)
++++ b/../../week4/MYSQL/.idea/misc.xml	(date 1716632524454)
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../Library_Management_System/src/main/java/org/example/form.form
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/src/main/java/org/example/form.form b/../../Library_Management_System/src/main/java/org/example/form.form
+new file mode 100644
+--- /dev/null	(date 1716174369786)
++++ b/../../Library_Management_System/src/main/java/org/example/form.form	(date 1716174369786)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="org.example.form">
++  <grid id="27dc6" row-count="1" column-count="1" layout-manager="GridLayoutManager">
++    <margin top="0" left="0" bottom="0" right="0"/>
++    <constraints>
++      <xy x="20" y="20" width="500" height="400"/>
++      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
++    </constraints>
++    <properties/>
++    <border type="none"/>
++    <children/>
++  </grid>
++</form>
+Index: ../../Library_Management_System/src/main/java/org/example/form.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/src/main/java/org/example/form.java b/../../Library_Management_System/src/main/java/org/example/form.java
+new file mode 100644
+--- /dev/null	(date 1716174594084)
++++ b/../../Library_Management_System/src/main/java/org/example/form.java	(date 1716174594084)
+@@ -0,0 +1,4 @@
++package org.example;
++
++public class form {
++}
+Index: ../../week 3/untitled/untitled.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/untitled/untitled.iml b/../../week 3/untitled/untitled.iml
+new file mode 100644
+--- /dev/null	(date 1714831370249)
++++ b/../../week 3/untitled/untitled.iml	(date 1714831370249)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module-library">
++      <library name="JUnit4">
++        <CLASSES>
++          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
++        </CLASSES>
++        <JAVADOC />
++        <SOURCES />
++      </library>
++    </orderEntry>
++    <orderEntry type="module-library">
++      <library name="JUnit4">
++        <CLASSES>
++          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
++        </CLASSES>
++        <JAVADOC />
++        <SOURCES />
++      </library>
++    </orderEntry>
++  </component>
++</module>
+\ No newline at end of file
+Index: ../../week4/MYSQL/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week4/MYSQL/.idea/.gitignore b/../../week4/MYSQL/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1716632531268)
++++ b/../../week4/MYSQL/.idea/.gitignore	(date 1716632531268)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: ../../week4/MYSQL/.idea/dataSources.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week4/MYSQL/.idea/dataSources.xml b/../../week4/MYSQL/.idea/dataSources.xml
+new file mode 100644
+--- /dev/null	(date 1716632544668)
++++ b/../../week4/MYSQL/.idea/dataSources.xml	(date 1716632544668)
+@@ -0,0 +1,17 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
++    <data-source source="LOCAL" name="@localhost" uuid="ee55f135-541b-4e82-974b-8a280b682526">
++      <driver-ref>mysql.8</driver-ref>
++      <synchronize>true</synchronize>
++      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
++      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
++      <jdbc-additional-properties>
++        <property name="com.intellij.clouds.kubernetes.db.host.port" />
++        <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />
++        <property name="com.intellij.clouds.kubernetes.db.container.port" />
++      </jdbc-additional-properties>
++      <working-dir>$ProjectFileDir$</working-dir>
++    </data-source>
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../week4/MYSQL/.idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week4/MYSQL/.idea/encodings.xml b/../../week4/MYSQL/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1716632544674)
++++ b/../../week4/MYSQL/.idea/encodings.xml	(date 1716632544674)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../week4/MYSQL/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week4/MYSQL/.idea/vcs.xml b/../../week4/MYSQL/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1716632544681)
++++ b/../../week4/MYSQL/.idea/vcs.xml	(date 1716632544681)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../week 3/Week 3 exercises/Week 3 exercises.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/Week 3 exercises.iml b/../../week 3/Week 3 exercises/Week 3 exercises.iml
+new file mode 100644
+--- /dev/null	(date 1714497261153)
++++ b/../../week 3/Week 3 exercises/Week 3 exercises.iml	(date 1714497261153)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: ../../week4/MYSQL/.idea/sqldialects.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week4/MYSQL/.idea/sqldialects.xml b/../../week4/MYSQL/.idea/sqldialects.xml
+new file mode 100644
+--- /dev/null	(date 1716637100240)
++++ b/../../week4/MYSQL/.idea/sqldialects.xml	(date 1716637100240)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="SqlDialectMappings">
++    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ee55f135-541b-4e82-974b-8a280b682526/console_1.sql" dialect="MySQL" />
++    <file url="PROJECT" dialect="MySQL" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Character.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Character.java b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Character.java
+new file mode 100644
+--- /dev/null	(date 1717243680499)
++++ b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Character.java	(date 1717243680499)
+@@ -0,0 +1,30 @@
++package com.ironhack.hellolordofjpa.model;
++
++import jakarta.persistence.*;
++import lombok.Getter;
++import lombok.NoArgsConstructor;
++import lombok.Setter;
++import lombok.ToString;
++
++@Entity
++@Getter
++@Setter
++@ToString
++@NoArgsConstructor
++@Table(name = "character")
++public class Character {
++//Character: Represents a character from Lord of the Rings. It should have properties such as id, name, race, and age.
++    @Id
++    @GeneratedValue(strategy = GenerationType.IDENTITY)
++    private Long id;
++
++    private String name;
++    private String race;
++    private Integer age;
++
++    public Character(Integer age, String race, String name) {
++        this.age = age;
++        this.race = race;
++        this.name = name;
++    }
++}
+Index: ../../week 1/week 1.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 1/week 1.iml b/../../week 1/week 1.iml
+new file mode 100644
+--- /dev/null	(date 1713888487253)
++++ b/../../week 1/week 1.iml	(date 1713888487253)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/Loops and Version Control/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: ../../Week 4 practice/README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Week 4 practice/README.md b/../../Week 4 practice/README.md
+new file mode 100644
+--- /dev/null	(date 1715428924583)
++++ b/../../Week 4 practice/README.md	(date 1715428924583)
+@@ -0,0 +1,89 @@
++# Week 4 Exercises ☕🤖
++
++![](./prog-at.png)
++
++## 🌱 Exercise 1: KombuchaKing Inventory Manager 🍵 
++Create a Maven project for managing the inventory of a kombucha brewery using the Gson library.
++
++### Instructions:
++1. Create a Maven project and add the Gson dependency to the `pom.xml` file. 📦
++
++2. Create a `Kombucha` class with the following properties:
++  - `private String name`: The name of the kombucha flavor. 🍓🍋
++  - `private int quantity`: The quantity of the kombucha in stock. 🧮
++  - `private double price`: The price of the kombucha per bottle. 💰
++
++3. Implement getter and setter methods for the `name`, `quantity`, and `price` properties.
++
++4. Create a constructor for the `Kombucha` class that accepts the `name`, `quantity`, and `price` as parameters.
++
++5. Create a `KombuchaInventory` class with the following methods:
++  - `public void addKombucha(Kombucha kombucha)`: Adds a kombucha object to the inventory `ArrayList`. 🍾
++  - `public void removeKombucha(String name)`: Removes a kombucha from the inventory based on its name. ❌
++  - `public Kombucha findKombucha(String name)`: Finds a kombucha in the inventory based on its name and returns it. 🔍
++  - `public void printInventory()`: Prints the current inventory of kombuchas. 🖨️
++
++6. In the `main` method, create an instance of `KombuchaInventory` and use a `Scanner` to interact with the user. Allow the user to add, remove, find, and print the inventory. 🖥️
++
++7. Use Gson to serialize the `KombuchaInventory` object to a JSON file when the program exits. 💾
++
++8. Write unit tests for the `Kombucha` and `KombuchaInventory` classes using JUnit. ✅
++
++## 🤖 Exercise 2: RoboWarehouse 🚀
++Implement a simulation of a robot-operated warehouse using the DataFaker library.
++
++### Instructions:
++1. Create a Maven project and add the DataFaker dependency to the `pom.xml` file. 📦
++
++2. Create an interface called `RobotAction` with the following method:
++  - `void performAction()`: Performs a specific action in the warehouse. 🏭
++
++3. Create classes `PickingRobot` and `PackingRobot` that implement the `RobotAction` interface. Implement the `performAction()` method for each robot type. 🤖📦
++
++4. Create a `Warehouse` class with an `ArrayList` to store the robots. Implement methods to add robots to the warehouse and to execute the `performAction()` method for each robot using a for loop. 🏭🔄
++
++5. In the `main` method, create an instance of `Warehouse` and use DataFaker to generate random robot names and types. Add the robots to the warehouse. 🎲🤖
++
++6. Implement a method in the `Warehouse` class to simulate a day's work by iterating over the robots and calling their `performAction()` method. 🌞💼
++
++7. Use a `Scanner` to interact with the user and allow them to simulate multiple days or add more robots to the warehouse. 🖥️
++
++8. Implement error handling using a custom `WarehouseException` class that extends `RuntimeException`. Throw the exception when the warehouse runs out of robots. 🚨
++
++9. Write unit tests for the `PickingRobot`, `PackingRobot`, and `Warehouse` classes using JUnit. ✅
++
++## ☕ Exercise 3: CoffeeMaker Unit Testing ☕
++Write unit tests for a `CoffeeMaker` class that simulates the functionality of a coffee machine.
++
++### Instructions:
++1. Create a new class called `CoffeeMaker` with the following methods:
++  - `public void brew(String coffeeType)`: Brews a cup of coffee of the specified type (e.g., "Espresso", "Cappuccino", "Latte"). ☕
++  - `public void addWater(int amount)`: Adds water to the coffee maker's reservoir. 💧
++  - `public void addCoffeeBeans(int amount)`: Adds coffee beans to the coffee maker's bean container. 🌱
++  - `public int getWaterLevel()`: Returns the current water level in the reservoir. 💦
++  - `public int getCoffeeBeansLevel()`: Returns the current level of coffee beans in the bean container. 🫘
++  - `public String getLastBrewedCoffee()`: Returns the type of the last brewed coffee. ☕
++
++2. Implement the methods in the `CoffeeMaker` class according to their descriptions. Use instance variables to keep track of the water level, coffee beans level, and the last brewed coffee type. 🔧
++
++3. Create a new class called `CoffeeMakerTest` in the `src/test/java` directory of your project. 🧪
++
++4. In the `CoffeeMakerTest` class, write the following unit tests using JUnit:
++  - `Given_SufficientResources_When_Brew_Then_UpdatesLastBrewedCoffee()`: Test the `brew()` method by calling it with different coffee types and asserting that the last brewed coffee type is updated correctly. ☕✅
++  - `Given_ValidAmount_When_AddWater_Then_UpdatesWaterLevel()`: Test the `addWater()` method by adding water to the reservoir and asserting that the water level is updated correctly. 💧✅
++  - `Given_ValidAmount_When_AddCoffeeBeans_Then_UpdatesCoffeeBeansLevel()`: Test the `addCoffeeBeans()` method by adding coffee beans to the bean container and asserting that the coffee beans level is updated correctly. 🌱✅
++  - `Given_WaterLevelSet_When_GetWaterLevel_Then_ReturnsCorrectLevel()`: Test the `getWaterLevel()` method by setting the water level and asserting that the retrieved water level matches the expected value. 💦✅
++  - `Given_CoffeeBeansLevelSet_When_GetCoffeeBeansLevel_Then_ReturnsCorrectLevel()`: Test the `getCoffeeBeansLevel()` method by setting the coffee beans level and asserting that the retrieved coffee beans level matches the expected value. 🫘✅
++  - `Given_BrewedCoffee_When_GetLastBrewedCoffee_Then_ReturnsLastBrewedCoffeeType()`: Test the `getLastBrewedCoffee()` method by brewing different types of coffee and asserting that the last brewed coffee type is returned correctly. ☕✅
++
++5. Use the `@Before` annotation in JUnit to set up a new instance of the `CoffeeMaker` class before each test method. 🆕
++
++6. Run the unit tests and ensure that all tests pass successfully. ✅
++
++7. Add additional test cases to cover edge cases and potential error scenarios, such as trying to brew coffee without sufficient water or coffee beans. 🚨
++
++8. Optionally, you can add methods to the `CoffeeMaker` class to simulate consuming water and coffee beans during the brewing process and update the unit tests accordingly. ⚙️
++
++Remember to follow the **Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior** naming convention for your test methods. This convention helps in clearly expressing the purpose and expected behavior of each unit test. ✨
++
++By practicing unit testing with the `CoffeeMaker` class, you'll gain hands-on experience in writing effective tests and ensuring the correctness of your code. ☕💪
+\ No newline at end of file
+Index: ../../Library_Management_System/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/.idea/misc.xml b/../../Library_Management_System/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1716025004326)
++++ b/../../Library_Management_System/.idea/misc.xml	(date 1716025004326)
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../HelloSpring/src/main/resources/static/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloSpring/src/main/resources/static/index.html b/../HelloSpring/src/main/resources/static/index.html
+new file mode 100644
+--- /dev/null	(date 1716914473161)
++++ b/../HelloSpring/src/main/resources/static/index.html	(date 1716914473161)
+@@ -0,0 +1,5 @@
++<html>
++<body>
++<h2>Hello World</h2>
++</body>
++</html>
+\ No newline at end of file
+Index: ../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Location.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Location.java b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Location.java
+new file mode 100644
+--- /dev/null	(date 1717243680494)
++++ b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Location.java	(date 1717243680494)
+@@ -0,0 +1,27 @@
++package com.ironhack.hellolordofjpa.model;
++
++import jakarta.persistence.*;
++import lombok.Getter;
++import lombok.NoArgsConstructor;
++import lombok.Setter;
++import lombok.ToString;
++
++@Entity
++@Getter
++@Setter
++@ToString
++@NoArgsConstructor
++@Table(name = "locations")
++public class Location {
++    //Location: Represents a location in Middle-earth. It should have properties such as id, name, and description.
++    @Id
++    @GeneratedValue(strategy = GenerationType.IDENTITY)
++    private Long id;
++    private String name;
++    private String description;
++
++    public Location(String name, String description) {
++        this.name = name;
++        this.description = description;
++    }
++}
+Index: ../HelloSpring/src/main/java/com/ironhack/hellospring/HelloController.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloSpring/src/main/java/com/ironhack/hellospring/HelloController.java b/../HelloSpring/src/main/java/com/ironhack/hellospring/HelloController.java
+new file mode 100644
+--- /dev/null	(date 1716915197209)
++++ b/../HelloSpring/src/main/java/com/ironhack/hellospring/HelloController.java	(date 1716915197209)
+@@ -0,0 +1,24 @@
++package com.ironhack.hellospring;
++
++import org.springframework.web.bind.annotation.GetMapping;
++import org.springframework.web.bind.annotation.RequestMapping;
++import org.springframework.web.bind.annotation.RequestParam;
++import org.springframework.web.bind.annotation.RestController;
++
++@RequestMapping("/hello")
++@RestController
++public class HelloController {
++
++    @GetMapping
++    public Greet greet(@RequestParam(required = false) String name) {
++        var greet = new Greet();
++        if (name != null) {
++            greet.setGreet("Hello " + name + "!");
++        } else {
++            greet.setGreet("Hello world!");
++        }
++        return greet;
++    }
++}
++
++
+Index: ../../Library_Management_System/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/.idea/.gitignore b/../../Library_Management_System/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1716025009391)
++++ b/../../Library_Management_System/.idea/.gitignore	(date 1716025009391)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: ../HelloSpring/src/main/java/com/ironhack/hellospring/Greet.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloSpring/src/main/java/com/ironhack/hellospring/Greet.java b/../HelloSpring/src/main/java/com/ironhack/hellospring/Greet.java
+new file mode 100644
+--- /dev/null	(date 1716915584207)
++++ b/../HelloSpring/src/main/java/com/ironhack/hellospring/Greet.java	(date 1716915584207)
+@@ -0,0 +1,13 @@
++package com.ironhack.hellospring;
++
++import lombok.*;
++
++
++@Data
++public class Greet {
++    private String greet;
++    }
++
++
++
++
+Index: ../../Library_Management_System/src/main/java/org/example/MemberTypes.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/src/main/java/org/example/MemberTypes.java b/../../Library_Management_System/src/main/java/org/example/MemberTypes.java
+new file mode 100644
+--- /dev/null	(date 1716028839946)
++++ b/../../Library_Management_System/src/main/java/org/example/MemberTypes.java	(date 1716028839946)
+@@ -0,0 +1,7 @@
++package org.example;
++
++public enum MemberTypes {
++    PUBLIC,
++    PAID,
++    STAFF
++}
+Index: ../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/CharacterRepository.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/CharacterRepository.java b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/CharacterRepository.java
+new file mode 100644
+--- /dev/null	(date 1717249233084)
++++ b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/CharacterRepository.java	(date 1717249233084)
+@@ -0,0 +1,58 @@
++package com.ironhack.hellolordofjpa.repository;
++
++
++import com.ironhack.hellolordofjpa.model.Character;
++import org.springframework.data.jpa.repository.JpaRepository;
++import org.springframework.data.jpa.repository.Query;
++import org.springframework.stereotype.Repository;
++
++import java.util.List;
++
++@Repository
++public interface CharacterRepository extends JpaRepository<Character, Long> {
++    //    CharacterRepository
++    //    Find characters by race
++    //    Find characters by age range
++    //    Find characters by name containing a specific keyword
++    //    Find characters by race and age greater than a specific value
++
++    //JPA Query Methods
++    List<Character> findByRace(String race);
++
++    List<Character> findByAgeGreaterThan(Integer age);
++
++    List<Character> findByNameContaining(String name);
++
++    List<Character> findByRaceAndAgeGreaterThan(String race, Integer age);
++
++    //JPQL Query Methods
++
++
++    //    Find characters by race
++    @Query("SELECT c FROM Character c WHERE c.race = :race")
++    List<Character> findByRaceJPQL(String race);
++
++    //    Find characters by age range
++    @Query("SELECT c FROM Character c WHERE c.age > :age")
++    List<Character> FindByAgeGreaterThanJPQL(Integer age);
++
++    //    Find characters by name containing a specific keyword
++    @Query("SELECT c FROM Character c WHERE c.name LIKE %:name%")
++    List<Character> FindByNameContainingJPQL(String name);
++
++    //    Find characters by race and age greater than a specific value
++    @Query("SELECT c FROM Character c WHERE c.race = :race AND c.age > :age")
++    List<Character> FindByRaceAndAgeGreaterThanJPQL(String race, Integer age);
++
++
++
++
++    //    Sample Data
++    Character character1 = new Character(24000, "Human", "Gandalf");
++    Character character2 = new Character(2931, "Elf", "Legolas");
++    Character character3 = new Character(139, "Dwarf", "Gimli");
++
++}
++
++
++
+Index: ../../Library_Management_System/.idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/.idea/encodings.xml b/../../Library_Management_System/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1716025064420)
++++ b/../../Library_Management_System/.idea/encodings.xml	(date 1716025064420)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../Library_Management_System/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/.idea/vcs.xml b/../../Library_Management_System/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1716025064427)
++++ b/../../Library_Management_System/.idea/vcs.xml	(date 1716025064427)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/LocationRepository.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/LocationRepository.java b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/LocationRepository.java
+new file mode 100644
+--- /dev/null	(date 1717249233079)
++++ b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/LocationRepository.java	(date 1717249233079)
+@@ -0,0 +1,29 @@
++package com.ironhack.hellolordofjpa.repository;
++
++import com.ironhack.hellolordofjpa.model.Location;
++import org.springframework.data.jpa.repository.JpaRepository;
++import org.springframework.stereotype.Repository;
++
++import java.util.List;
++
++@Repository
++public interface LocationRepository extends JpaRepository<Location, Long> {
++
++    //LocationRepository
++    //Find locations by name
++    //Find locations by description containing a specific keyword
++    //Find locations by name starting with a specific prefix
++    //Find locations by name, ignoring case
++
++        //JPA Query Methods
++    List<Location> findByName(String name);
++    List<Location> findByDescriptionContaining(String description);
++    List<Location> findByNameStartingWith(String name);
++    List<Location> findByNameContainingIgnoreCase(String name);
++
++
++    //Sample Data
++    Location location1 = new Location("London", "Capital of England");
++    Location location2 = new Location("Paris", "Capital of France");
++    Location location3 = new Location("Berlin", "Capital of Germany");
++}
+Index: ../assesment/src/main/java/com/ironhack/assesment/repositories/AccountRepository.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../assesment/src/main/java/com/ironhack/assesment/repositories/AccountRepository.java b/../assesment/src/main/java/com/ironhack/assesment/repositories/AccountRepository.java
+new file mode 100644
+--- /dev/null	(date 1717856695444)
++++ b/../assesment/src/main/java/com/ironhack/assesment/repositories/AccountRepository.java	(date 1717856695444)
+@@ -0,0 +1,35 @@
++package com.ironhack.assesment.repositories;
++
++
++import com.ironhack.assesment.assesment.model.Account;
++import org.springframework.data.jpa.repository.JpaRepository;
++import org.springframework.stereotype.Repository;
++
++@Repository
++public interface AccountRepository extends JpaRepository<Account, Long> {
++
++//Find an Account by customer name
++//Find All Accounts with a balance less than a provided number
++
++
++    Account findByCustomerName(String customerName);
++
++
++    Account findByBalanceLessThan(double balance);
++
++
++
++//    Find an Account by customer names containing the provided String
++//    Find an Account by customer names and account type
++//    Find All Accounts with a balance greater than a provided number, order by customer name
++
++    Account findByCustomerNameContaining(String customerName);
++
++    Account findByCustomerNameAndAccountType(String customerName, String accountType);
++
++    Account findByBalanceGreaterThan(double balance);
++
++    Account findByBalanceGreaterThanOrderByCustomerName(double balance);
++
++
++}
+Index: ../../week 3/Week 3 exercises/src/Interface/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/Interface/Main.java b/../../week 3/Week 3 exercises/src/Interface/Main.java
+new file mode 100644
+--- /dev/null	(date 1714506568630)
++++ b/../../week 3/Week 3 exercises/src/Interface/Main.java	(date 1714506568630)
+@@ -0,0 +1,12 @@
++package Interface;
++
++public class Main {
++    public static void main(String[] args) {
++        Playable mySongList = new List();
++        mySongList.Song();
++        mySongList.Album();
++        mySongList.UserPlaylist();
++        Setup mySetup = new Setup();
++
++    }
++}
+Index: ../../Week 4 practice/src/main/java/org/example/KombuchaInventory.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Week 4 practice/src/main/java/org/example/KombuchaInventory.java b/../../Week 4 practice/src/main/java/org/example/KombuchaInventory.java
+new file mode 100644
+--- /dev/null	(date 1715439566868)
++++ b/../../Week 4 practice/src/main/java/org/example/KombuchaInventory.java	(date 1715439566868)
+@@ -0,0 +1,29 @@
++package org.example;
++
++import java.util.ArrayList;
++
++public class KombuchaInventory {
++
++    ArrayList<Kombucha> inventory;
++
++    public KombuchaInventory() {
++        inventory = new ArrayList<>();
++    }
++
++    public void addKombucha(Kombucha kombucha) {
++        inventory.add(kombucha);
++    }
++    public void removeKombucha(String name) {
++        inventory.removeIf(k -> k.getName().equals(name));
++    }
++    public Kombucha findKombucha(String name) {
++
++        return inventory.stream().filter(k -> k.getName().equals(name)).findFirst().orElse(null);
++    }
++    public int printInventory(){
++        for (Kombucha value : inventory) {
++            System.out.println(value.getName());
++        }
++        return 0;
++    }
++}
+Index: ../../week 3/Week 3 exercises/src/Interface/PlaylistManager.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/Interface/PlaylistManager.java b/../../week 3/Week 3 exercises/src/Interface/PlaylistManager.java
+new file mode 100644
+--- /dev/null	(date 1714503283804)
++++ b/../../week 3/Week 3 exercises/src/Interface/PlaylistManager.java	(date 1714503283804)
+@@ -0,0 +1,12 @@
++package Interface;
++
++public interface PlaylistManager {
++    void next();
++    void previous();
++    void volume();
++
++    default void volumeLevel(){
++        System.out.println("Volume is at max");
++    }
++
++}
+Index: ../../Library_Management_System/src/main/java/org/example/BookTypes.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/src/main/java/org/example/BookTypes.java b/../../Library_Management_System/src/main/java/org/example/BookTypes.java
+new file mode 100644
+--- /dev/null	(date 1716025462937)
++++ b/../../Library_Management_System/src/main/java/org/example/BookTypes.java	(date 1716025462937)
+@@ -0,0 +1,22 @@
++package org.example;
++
++public enum BookTypes {
++    FANTASY,
++    SCIENCE_FICTION,
++    ACTION_AND_ADVENTURE,
++    MYSTERY,
++    HORROR,
++    THRILLER,
++    HISTORICAL,
++    ROMANCE,
++    WOMENS_FICTION,
++    LGBTQ,
++    CONTEMPORARY,
++    LITERARY,
++    MAGICAL,
++    GRAPHIC_NOVEL,
++    SHORT,
++    YOUNG,
++    NEW_ADULT,
++    CHILDREN
++}
+Index: ../../week 3/Week 3 exercises/src/Interface/Playable.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/Interface/Playable.java b/../../week 3/Week 3 exercises/src/Interface/Playable.java
+new file mode 100644
+--- /dev/null	(date 1714501166810)
++++ b/../../week 3/Week 3 exercises/src/Interface/Playable.java	(date 1714501166810)
+@@ -0,0 +1,7 @@
++package Interface;
++
++public interface Playable {
++    void Song();
++    void Album();
++    void UserPlaylist();
++}
+Index: ../../week 3/Week 3 exercises/src/Interface/List.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/Interface/List.java b/../../week 3/Week 3 exercises/src/Interface/List.java
+new file mode 100644
+--- /dev/null	(date 1714502691164)
++++ b/../../week 3/Week 3 exercises/src/Interface/List.java	(date 1714502691164)
+@@ -0,0 +1,19 @@
++package Interface;
++
++public class List implements Playable {
++
++    @Override
++    public void Song() {
++        System.out.println("Song: 'test 1'");
++    }
++
++    @Override
++    public void Album() {
++        System.out.println("Album: 'AlbumTest 1'");
++    }
++
++    @Override
++    public void UserPlaylist() {
++        System.out.println("Your Next Song is: 'test 2'");
++    }
++}
+Index: ../../week 3/Week 3 exercises/src/Interface/Setup.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/Interface/Setup.java b/../../week 3/Week 3 exercises/src/Interface/Setup.java
+new file mode 100644
+--- /dev/null	(date 1714506427144)
++++ b/../../week 3/Week 3 exercises/src/Interface/Setup.java	(date 1714506427144)
+@@ -0,0 +1,21 @@
++package Interface;
++
++public class Setup implements PlaylistManager{
++
++    @Override
++    public void next() {
++
++    }
++
++    @Override
++    public void previous() {
++
++    }
++
++    @Override
++    public void volume() {
++
++    }
++
++    }
++}
+Index: ../../Library_Management_System/src/main/java/org/example/Members.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/src/main/java/org/example/Members.java b/../../Library_Management_System/src/main/java/org/example/Members.java
+new file mode 100644
+--- /dev/null	(date 1716026324699)
++++ b/../../Library_Management_System/src/main/java/org/example/Members.java	(date 1716026324699)
+@@ -0,0 +1,40 @@
++package org.example;
++
++
++public class Members {
++    private String name;
++    private int id;
++    private MemberTypes memberTypes;
++
++    public String getName() {
++        return name;
++    }
++
++    public void setName(String name) {
++        this.name = name;
++    }
++
++    public int getId() {
++        return id;
++    }
++
++    public void setId(int id) {
++        this.id = id;
++    }
++
++    public MemberTypes getMemberTypes() {
++        return memberTypes;
++    }
++
++    public void setMemberTypes(MemberTypes memberTypes) {
++        this.memberTypes = memberTypes;
++    }
++
++    public Members(String name, int id, MemberTypes memberTypes) {
++        this.name = name;
++        this.id = id;
++        this.memberTypes = memberTypes;
++    }
++
++
++}
+Index: ../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/demo/DataLoader.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/demo/DataLoader.java b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/demo/DataLoader.java
+new file mode 100644
+--- /dev/null	(date 1717247789700)
++++ b/../HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/demo/DataLoader.java	(date 1717247789700)
+@@ -0,0 +1,43 @@
++package com.ironhack.hellolordofjpa.demo;
++
++import com.ironhack.hellolordofjpa.model.Character;
++import com.ironhack.hellolordofjpa.model.Location;
++import com.ironhack.hellolordofjpa.repository.CharacterRepository;
++import com.ironhack.hellolordofjpa.repository.LocationRepository;
++import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.boot.CommandLineRunner;
++import org.springframework.stereotype.Component;
++
++import java.util.List;
++
++
++@Component
++public class DataLoader implements CommandLineRunner {
++    @Autowired
++    private LocationRepository locationRepository;
++    private CharacterRepository characterRepository;
++
++
++    @Override
++    public void run(String... args) throws Exception {
++        Character gandalf = new Character(24000, "Human", "Gandalf");
++        Character legolas = new Character(2931, "Elf", "Legolas");
++        Character gimli = new Character(139, "Dwarf", "Gimli");
++        Character frodo = new Character(50, "Hobbit", "Frodo");
++
++        var listOfCharacters = List.of(gandalf, legolas, gimli, frodo);
++        characterRepository.saveAll(listOfCharacters);
++
++        Location hobbiton = new Location("hobbiton", "The Hobbiton");
++        Location orthanc = new Location("orthanc", "Orthanc");
++        Location minasTirith = new Location("minasTirith", "Minas Tirith");
++        Location shire = new Location("shire", "The Shire");
++        Location rohan = new Location("rohan", "Rohan");
++        Location rauros = new Location("rauros", "Rauros");
++        Location mordor = new Location("mordor", "Mordor");
++
++        var listOfLocations = List.of(hobbiton, orthanc, minasTirith, shire, rohan, rauros, mordor);
++        locationRepository.saveAll(listOfLocations);
++
++    }
++}
+Index: ../../Library_Management_System/src/main/java/org/example/Book.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/src/main/java/org/example/Book.java b/../../Library_Management_System/src/main/java/org/example/Book.java
+new file mode 100644
+--- /dev/null	(date 1716034244394)
++++ b/../../Library_Management_System/src/main/java/org/example/Book.java	(date 1716034244394)
+@@ -0,0 +1,37 @@
++package org.example;
++
++public class Book {
++    private String ISBN;
++    private String title;
++    private BookTypes bookTypes;
++
++    public String getISBN() {
++        return ISBN;
++    }
++
++    public void setISBN(String ISBN) {
++        this.ISBN = ISBN;
++    }
++
++    public String getTitle() {
++        return title;
++    }
++
++    public void setTitle(String title) {
++        this.title = title;
++    }
++
++    public BookTypes getBookTypes() {
++        return bookTypes;
++    }
++
++    public void setBookTypes(BookTypes bookTypes) {
++        this.bookTypes = bookTypes;
++    }
++
++    public Book(String ISBN, String title, BookTypes bookTypes) {
++        this.ISBN = ISBN;
++        this.title = title;
++        this.bookTypes = bookTypes;
++    }
++}
+Index: ../../week 3/assesment/assesment.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/assesment/assesment.iml b/../../week 3/assesment/assesment.iml
+new file mode 100644
+--- /dev/null	(date 1714829024046)
++++ b/../../week 3/assesment/assesment.iml	(date 1714829024046)
+@@ -0,0 +1,21 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module-library">
++      <library name="JUnit4">
++        <CLASSES>
++          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
++        </CLASSES>
++        <JAVADOC />
++        <SOURCES />
++      </library>
++    </orderEntry>
++  </component>
++</module>
+\ No newline at end of file
+Index: ../../week 3/Week 3 exercises/src/videogame/Update.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/videogame/Update.java b/../../week 3/Week 3 exercises/src/videogame/Update.java
+new file mode 100644
+--- /dev/null	(date 1714501166831)
++++ b/../../week 3/Week 3 exercises/src/videogame/Update.java	(date 1714501166831)
+@@ -0,0 +1,4 @@
++package videogame;
++
++public class Update {
++}
+Index: ../../Library_Management_System/.idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Library_Management_System/.idea/uiDesigner.xml b/../../Library_Management_System/.idea/uiDesigner.xml
+new file mode 100644
+--- /dev/null	(date 1716034244473)
++++ b/../../Library_Management_System/.idea/uiDesigner.xml	(date 1716034244473)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../week 3/Week 3 exercises/src/videogame/Remove.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/videogame/Remove.java b/../../week 3/Week 3 exercises/src/videogame/Remove.java
+new file mode 100644
+--- /dev/null	(date 1714501166834)
++++ b/../../week 3/Week 3 exercises/src/videogame/Remove.java	(date 1714501166834)
+@@ -0,0 +1,4 @@
++package videogame;
++
++public class Remove {
++}
+Index: ../../week 3/Week 3 exercises/src/videogame/Display.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/videogame/Display.java b/../../week 3/Week 3 exercises/src/videogame/Display.java
+new file mode 100644
+--- /dev/null	(date 1714501166827)
++++ b/../../week 3/Week 3 exercises/src/videogame/Display.java	(date 1714501166827)
+@@ -0,0 +1,4 @@
++package videogame;
++
++public class Display {
++}
+Index: ../../week 3/Week 3 exercises/src/videogame/Add.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/videogame/Add.java b/../../week 3/Week 3 exercises/src/videogame/Add.java
+new file mode 100644
+--- /dev/null	(date 1714501166805)
++++ b/../../week 3/Week 3 exercises/src/videogame/Add.java	(date 1714501166805)
+@@ -0,0 +1,4 @@
++package videogame;
++
++public class Add {
++}
+Index: ../../week 3/Week 3 exercises/src/videogame/VideogameShop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/videogame/VideogameShop.java b/../../week 3/Week 3 exercises/src/videogame/VideogameShop.java
+new file mode 100644
+--- /dev/null	(date 1714501166815)
++++ b/../../week 3/Week 3 exercises/src/videogame/VideogameShop.java	(date 1714501166815)
+@@ -0,0 +1,13 @@
++package videogame;
++
++import java.util.ArrayList;
++
++public class VideogameShop {
++    public static void main(String[] args) {
++        ArrayList<String> gameList = new ArrayList<>();
++
++        gameList.add("");
++        gameList.add("");
++        gameList.add("");
++    }
++}
+Index: ../task/src/main/java/com/ironhack/task/Intro.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../task/src/main/java/com/ironhack/task/Intro.java b/../task/src/main/java/com/ironhack/task/Intro.java
+new file mode 100644
+--- /dev/null	(date 1716917414775)
++++ b/../task/src/main/java/com/ironhack/task/Intro.java	(date 1716917414775)
+@@ -0,0 +1,13 @@
++package com.ironhack.task;
++
++import org.springframework.boot.CommandLineRunner;
++import org.springframework.stereotype.Component;
++
++@Component
++public class Intro implements CommandLineRunner {
++    @Override
++    public void run(String... args) throws Exception {
++        System.out.println("Hello World");
++    }
++
++}
+Index: ../../week 3/Week 3 exercises/src/BigDecimal/BankAccount.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 3/Week 3 exercises/src/BigDecimal/BankAccount.java b/../../week 3/Week 3 exercises/src/BigDecimal/BankAccount.java
+new file mode 100644
+--- /dev/null	(date 1714507353179)
++++ b/../../week 3/Week 3 exercises/src/BigDecimal/BankAccount.java	(date 1714507353179)
+@@ -0,0 +1,11 @@
++package BigDecimal;
++import java.math.BigDecimal;
++
++public class BankAccount {
++    public static void main(String[] args) {
++        BigDecimal balance = new BigDecimal("4500.66");
++        BigDecimal interestRate = new BigDecimal(("0.10"));
++        BigDecimal Roundup = balance.setScale(BigDecimal.ROUND_HALF_UP);
++        
++    }
++}
+Index: ../../week 1/Loops and Version Control/src/Task1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.lang.reflect.Array;\r\nimport java.util.Arrays;\r\n\r\npublic class Task1 {\r\n    public static void main(String[] args) {\r\n        int[] numbers = { -80, -25, -5, 8, 15, 50, 90, 150, 240};\r\n        Arrays.sort(numbers);\r\n        String listNumbers = Arrays.toString(numbers);\r\n        System.out.println(listNumbers);\r\n        int last = (Array.getLength(numbers) - 1);\r\n        System.out.println(\"The first number is: \" + numbers[0]);\r\n        System.out.println(\"The last number is: \" + numbers[last]);\r\n        int diff;\r\n        if (numbers[0] <= 0){\r\n            diff = ((numbers[0]) + numbers[last]);\r\n        } else {\r\n            diff = ((numbers[0]) - numbers[last]);\r\n        }\r\n        System.out.println(\"The difference between the smallest and the largest number is: \" + diff);\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../week 1/Loops and Version Control/src/Task1.java b/../../week 1/Loops and Version Control/src/Task1.java
+--- a/../../week 1/Loops and Version Control/src/Task1.java	(revision ad615617cba1ca5c5e73f118d9bb8679683bdd8e)
++++ b/../../week 1/Loops and Version Control/src/Task1.java	(date 1713936287359)
+@@ -1,20 +1,20 @@
+-import java.lang.reflect.Array;
+ import java.util.Arrays;
+ 
+ public class Task1 {
+     public static void main(String[] args) {
+-        int[] numbers = { -80, -25, -5, 8, 15, 50, 90, 150, 240};
+-        Arrays.sort(numbers);
++        int[] numbers = { 50, -88, 65, 510, -300, 45, 30};
++
++        int maxNum = Arrays.stream(numbers).max().getAsInt();
++        int minNum = Arrays.stream(numbers).min().getAsInt();
+         String listNumbers = Arrays.toString(numbers);
+         System.out.println(listNumbers);
+-        int last = (Array.getLength(numbers) - 1);
+-        System.out.println("The first number is: " + numbers[0]);
+-        System.out.println("The last number is: " + numbers[last]);
++        System.out.println("The lowest number is: " + minNum);
++        System.out.println("The biggest number is: " + maxNum);
+         int diff;
+-        if (numbers[0] <= 0){
+-            diff = ((numbers[0]) + numbers[last]);
++        if (minNum <= 0){
++            diff = ((minNum) + maxNum);
+         } else {
+-            diff = ((numbers[0]) - numbers[last]);
++            diff = ((maxNum) - minNum);
+         }
+         System.out.println("The difference between the smallest and the largest number is: " + diff);
+     }
+Index: ../../Assestment/src/test/java/org/example/test/main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Assestment/src/test/java/org/example/test/main.java b/../../Assestment/src/test/java/org/example/test/main.java
+new file mode 100644
+--- /dev/null	(date 1716038113305)
++++ b/../../Assestment/src/test/java/org/example/test/main.java	(date 1716038113305)
+@@ -0,0 +1,35 @@
++import org.example.test.Solution;
++import org.junit.Test;
++import static org.junit.Assert.*;
++import java.util.*;
++public void should_TransformBiggerWords() {
++
++    List<String> expected = new ArrayList<>();
++
++
++    List<String> result = new ArrayList<>();
++    result.add("B");
++    result.add("34");
++    result.add("2");
++
++    result.removeFirst();
++    result.removeLast();
++
++
++    List<String> input = new ArrayList<>();
++    input.add("ABC");
++    input.add("12345");
++    input.add("12");
++    assertArrayEquals(result.toArray(), Solution.wordTransformation(input, 3).toArray());
++}
++
++public void main() {
++
++
++    class Solution {
++        public static List<String> wordTransformation(List<String> wordList, int n) {
++            wordTransformation(, , )
++            return null;
++        }
++    }
++}
+\ No newline at end of file
+Index: ../SpringSQL/src/main/java/com/ironhack/springsql/Coffee.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../SpringSQL/src/main/java/com/ironhack/springsql/Coffee.java b/../SpringSQL/src/main/java/com/ironhack/springsql/Coffee.java
+new file mode 100644
+--- /dev/null	(date 1716921919782)
++++ b/../SpringSQL/src/main/java/com/ironhack/springsql/Coffee.java	(date 1716921919782)
+@@ -0,0 +1,28 @@
++package com.ironhack.springsql;
++
++
++import jakarta.persistence.*;
++import lombok.*;
++
++@Getter
++@Setter
++@Entity // this annotation is needed to make this map to a table in the database
++@Table(name = "coffee") // this annotation is needed to make this map to a table in the database
++@AllArgsConstructor
++@NoArgsConstructor
++@ToString
++public class Coffee {
++
++    @Id // in order to declare this as the primary key
++    @GeneratedValue(strategy = GenerationType.IDENTITY) // it enables something like auto-increment in SQL
++    private int id;
++
++    @Column(name = "coffee_name") // this annotation is needed to make this map to a column in the database
++    private String name;
++    private String origin;
++
++    public Coffee(String name, String origin) {
++        this.name = name;
++        this.origin = origin;
++    }
++}
+Index: ../assesment/src/main/java/com/ironhack/assesment/assesment/model/Account.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../assesment/src/main/java/com/ironhack/assesment/assesment/model/Account.java b/../assesment/src/main/java/com/ironhack/assesment/assesment/model/Account.java
+new file mode 100644
+--- /dev/null	(date 1717856432812)
++++ b/../assesment/src/main/java/com/ironhack/assesment/assesment/model/Account.java	(date 1717856432812)
+@@ -0,0 +1,25 @@
++package com.ironhack.assesment.assesment.model;
++
++import jakarta.persistence.*;
++import lombok.AllArgsConstructor;
++import lombok.Getter;
++import lombok.NoArgsConstructor;
++import lombok.Setter;
++
++@Getter
++@Setter
++@AllArgsConstructor
++@NoArgsConstructor
++@Table(name = "accounts")
++public class Account{
++
++    @Id
++    private String accountNumber;
++    private String customerName;
++    private double balance;
++    private Integer id;
++    private Branch branch;
++    private String accountType
++
++    //getters and setters omitted for brevity
++}
+Index: ../../.idea/IdeaProjects.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../.idea/IdeaProjects.iml b/../../.idea/IdeaProjects.iml
+new file mode 100644
+--- /dev/null	(date 1715428857025)
++++ b/../../.idea/IdeaProjects.iml	(date 1715428857025)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: ../../Week 4 practice/src/main/java/org/example/Kombucha.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Week 4 practice/src/main/java/org/example/Kombucha.java b/../../Week 4 practice/src/main/java/org/example/Kombucha.java
+new file mode 100644
+--- /dev/null	(date 1715437953425)
++++ b/../../Week 4 practice/src/main/java/org/example/Kombucha.java	(date 1715437953425)
+@@ -0,0 +1,41 @@
++package org.example;
++
++public class Kombucha {
++    private String name;
++    private int quantity;
++    private double price;
++
++    public Kombucha(String name, int quantity, double price) {
++        this.name = name;
++        this.quantity = quantity;
++        this.price = price;
++    }
++
++    public Kombucha() {
++
++    }
++
++    public String getName() {
++        return name;
++    }
++
++    public void setName(String name) {
++        this.name = name;
++    }
++
++    public int getQuantity() {
++        return quantity;
++    }
++
++    public void setQuantity(int quantity) {
++        this.quantity = quantity;
++    }
++
++    public double getPrice() {
++        return price;
++    }
++
++    public void setPrice(double price) {
++        this.price = price;
++    }
++}
+Index: ../SpringSQL/src/main/java/com/ironhack/springsql/CoffeeRepository.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../SpringSQL/src/main/java/com/ironhack/springsql/CoffeeRepository.java b/../SpringSQL/src/main/java/com/ironhack/springsql/CoffeeRepository.java
+new file mode 100644
+--- /dev/null	(date 1716920537040)
++++ b/../SpringSQL/src/main/java/com/ironhack/springsql/CoffeeRepository.java	(date 1716920537040)
+@@ -0,0 +1,11 @@
++package com.ironhack.springsql;
++
++import org.springframework.data.jpa.repository.JpaRepository;
++import org.springframework.stereotype.Repository;
++
++@Repository
++public interface CoffeeRepository extends JpaRepository<Coffee, Integer> {
++
++
++
++}
+Index: ../SpringSQL/src/main/java/com/ironhack/springsql/DataLoader.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../SpringSQL/src/main/java/com/ironhack/springsql/DataLoader.java b/../SpringSQL/src/main/java/com/ironhack/springsql/DataLoader.java
+new file mode 100644
+--- /dev/null	(date 1716922971954)
++++ b/../SpringSQL/src/main/java/com/ironhack/springsql/DataLoader.java	(date 1716922971954)
+@@ -0,0 +1,46 @@
++package com.ironhack.springsql;
++
++import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.boot.CommandLineRunner;
++import org.springframework.stereotype.Component;
++import java.util.List;
++import java.util.Optional;
++
++@Component
++public class DataLoader implements CommandLineRunner {
++
++
++    @Autowired
++    private CoffeeRepository coffeeRepository;
++    @Override
++    public void run(String... args) throws Exception {
++        var c1 = new Coffee("latte", "Brazil");
++        var c2 = new Coffee("americano", "Brazil");
++
++        coffeeRepository.save(c1);
++        coffeeRepository.save(c2);
++
++        List<Coffee> allCoffees = coffeeRepository.findAll();
++        for (Coffee coffee : allCoffees) {
++            System.out.println(coffee);
++        }
++
++        // retreive only one coffee
++        Optional<Coffee> coffeeRetrieved = coffeeRepository.findById(50);
++        if (coffeeRetrieved.isPresent()) {
++            System.out.println("coffee found with id 2 is: " + coffeeRetrieved.get());
++        } else {
++            System.out.println("No coffee found with that id");
++        }
++        System.out.println("prinding all coffees");
++        coffeeRepository.deleteById(2);
++
++        var updatedCoffee = coffeeRepository.findAll();
++        System.out.println("prinding all coffees after deleting one");
++        for (int i = 0; i < updatedCoffee.size(); i++) {
++            System.out.println(updatedCoffee.get(i));
++
++        }
++    }
++
++}
+Index: ../HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/CharacterRepositoryTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/CharacterRepositoryTest.java b/../HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/CharacterRepositoryTest.java
+new file mode 100644
+--- /dev/null	(date 1717859559774)
++++ b/../HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/CharacterRepositoryTest.java	(date 1717859559774)
+@@ -0,0 +1,64 @@
++package com.ironhack.hellolordofjpa.repository;
++
++
++import com.ironhack.hellolordofjpa.model.Character;
++import org.junit.jupiter.api.BeforeEach;
++import org.junit.jupiter.api.Test;
++import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
++
++import java.util.List;
++
++import static org.junit.jupiter.api.Assertions.assertEquals;
++
++@DataJpaTest
++public class CharacterRepositoryTest {
++
++    @Autowired
++    CharacterRepository characterRepository;
++
++    @BeforeEach
++    void setUp() {
++        characterRepository.deleteAll();
++
++
++        Character gandalf = new Character(24000, "Human", "Gandalf");
++        Character legolas = new Character(2931, "Elf", "Legolas");
++        Character gimli = new Character(139, "Dwarf", "Gimli");
++
++
++        characterRepository.saveAll(List.of(gandalf, legolas, gimli));
++    }
++
++    //Test the CharacterRepository methods
++    //
++    //    findByRace_ShouldReturnCharacters_WhenRaceMatches
++    //    findByAgeBetween_ShouldReturnCharacters_WhenAgeInRange
++    //    findByNameContaining_ShouldReturnCharacters_WhenNameContainsKeyword
++    //    findByRaceAndAgeGreaterThan_ShouldReturnCharacters_WhenRaceAndAgeMatch
++
++    @Test
++    void findByRace_ShouldReturnCharacters_WhenRaceMatches() {
++        List<Character> characters = characterRepository.findByRace("Human");
++        assertEquals(1, characters.size());
++        assertEquals("Human", characters.get(0).getRace());
++    }
++
++    @Test
++    void findByAgeBetween_ShouldReturnCharacters_WhenAgeInRange() {
++        List<Character> characters = characterRepository.findByAgeGreaterThan(2000);
++        assertEquals(2, characters.size());
++    }
++
++    @Test
++    void findByNameContaining_ShouldReturnCharacters_WhenNameContainsKeyword() {
++        List<Character> characters = characterRepository.findByNameContaining("G");
++        assertEquals(2, characters.size());
++    }
++
++    @Test
++    void findByRaceAndAgeGreaterThan_ShouldReturnCharacters_WhenRaceAndAgeMatch() {
++        List<Character> characters = characterRepository.findByRaceAndAgeGreaterThan("Human", 2000);
++        assertEquals(1, characters.size());
++    }
++    }
+Index: ../../Week 4 practice/src/test/java/org/example/KombuchaInventoryTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Week 4 practice/src/test/java/org/example/KombuchaInventoryTest.java b/../../Week 4 practice/src/test/java/org/example/KombuchaInventoryTest.java
+new file mode 100644
+--- /dev/null	(date 1715438586292)
++++ b/../../Week 4 practice/src/test/java/org/example/KombuchaInventoryTest.java	(date 1715438586292)
+@@ -0,0 +1,18 @@
++package org.example;
++
++import org.junit.jupiter.api.Test;
++
++import static org.junit.jupiter.api.Assertions.*;
++
++class KombuchaInventoryTest {
++
++
++    @Test
++    public void TestKombuchaInventory() {
++        KombuchaInventory ki = new KombuchaInventory();
++        Kombucha kombucha = new Kombucha("Pear", 2, 3);
++        int inventorySizeBefore = ki.printInventory();
++
++
++    }
++}
+\ No newline at end of file
+Index: ../../Week 4 practice/src/test/java/org/example/KombuchaTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Week 4 practice/src/test/java/org/example/KombuchaTest.java b/../../Week 4 practice/src/test/java/org/example/KombuchaTest.java
+new file mode 100644
+--- /dev/null	(date 1715437279015)
++++ b/../../Week 4 practice/src/test/java/org/example/KombuchaTest.java	(date 1715437279015)
+@@ -0,0 +1,33 @@
++package org.example;
++
++import org.junit.jupiter.api.Test;
++
++import static org.junit.jupiter.api.Assertions.*;
++
++class KombuchaTest {
++
++    @Test
++    void getName() {
++
++    }
++
++    @Test
++    void setName() {
++    }
++
++    @Test
++    void getQuantity() {
++    }
++
++    @Test
++    void setQuantity() {
++    }
++
++    @Test
++    void getPrice() {
++    }
++
++    @Test
++    void setPrice() {
++    }
++}
+\ No newline at end of file
+diff --git a/../../about.html b/../../about.html
+deleted file mode 100644
+diff --git a/../../index.html b/../../index.html
+deleted file mode 100644
+diff --git a/../../week 1/Example/asd/src/Main.java b/../../week 1/Example/asd/src/Main.java
+deleted file mode 100644

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a521ca9d-ea54-4af6-b1d4-f77a4cb9ec2f" name="Changes" comment="lab">
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/demo/DataLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/enums/EventType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/enums/GuestStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/enums/MemberStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/Chapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/EventConferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/EventExpositions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/GuestConferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/GuestExpositions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/President.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/Speaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/ChapterRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/EventConferencesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/EventExpositionsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/GuestConferencesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/GuestExpositionsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/PresidentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/SpeakerRepository.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="VXNlcjo0Mzg1NDk=" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2haRtA9IESagaeHzISUBqhmQUOc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AircraftRepositoryTest.findByNameContaining.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CustomerRepositoryTest.findByName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FlightRepositoryTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.FlightRepositoryTest.findByFlightNumber.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.CodyAccountHistoryMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.LabJavaIntroToJpaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Projects&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/darkn/IdeaProjects/week6/lab-java-intro-to-jpa/src/main/java/com/ironhack/labjavaintrotojpa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;,
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\darkn\IdeaProjects\week6\lab-java-intro-to-jpa\src\main\java\com\ironhack\labjavaintrotojpa" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\darkn\IdeaProjects\week6\lab-java-intro-to-jpa" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ironhack.labjavaintrotojpa.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LabJavaIntroToJpaApplication">
+    <configuration name="AircraftRepositoryTest.findByNameContaining" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-java-intro-to-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.labjavaintrotojpa.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.labjavaintrotojpa.repositories" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.labjavaintrotojpa.repositories.AircraftRepositoryTest" />
+      <option name="METHOD_NAME" value="findByNameContaining" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerRepositoryTest.findByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-java-intro-to-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.labjavaintrotojpa.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.labjavaintrotojpa.repositories" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.labjavaintrotojpa.repositories.CustomerRepositoryTest" />
+      <option name="METHOD_NAME" value="findByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-java-intro-to-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.labjavaintrotojpa.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.labjavaintrotojpa.repositories" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.labjavaintrotojpa.repositories.FlightRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightRepositoryTest.findByFlightNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-java-intro-to-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.labjavaintrotojpa.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.labjavaintrotojpa.repositories" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.labjavaintrotojpa.repositories.FlightRepositoryTest" />
+      <option name="METHOD_NAME" value="findByFlightNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabJavaIntroToJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="lab-java-intro-to-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ironhack.labjavaintrotojpa.LabJavaIntroToJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FlightRepositoryTest.findByFlightNumber" />
+        <item itemvalue="JUnit.FlightRepositoryTest" />
+        <item itemvalue="JUnit.AircraftRepositoryTest.findByNameContaining" />
+        <item itemvalue="JUnit.CustomerRepositoryTest.findByName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a521ca9d-ea54-4af6-b1d4-f77a4cb9ec2f" name="Changes" comment="" />
+      <created>1717830413631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717830413631</updated>
+      <workItem from="1717830414658" duration="22580000" />
+      <workItem from="1717855711482" duration="162000" />
+      <workItem from="1717856013453" duration="6136000" />
+      <workItem from="1718003293899" duration="5000" />
+      <workItem from="1718003421563" duration="2141000" />
+      <workItem from="1718443936287" duration="2542000" />
+    </task>
+    <task id="LOCAL-00001" summary="lab">
+      <option name="closed" value="true" />
+      <created>1717861905172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717861905172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ironhack/labjavaintrotojpa/repositories/FlightRepositoryTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

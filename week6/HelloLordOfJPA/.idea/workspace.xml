@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="580b9c56-395d-4536-ada6-800cededa978" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/controller/CharacterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/controller/EffectsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/controller/ModsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/controller/SkillsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/controller/UsageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/loader/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/model/BuildsModels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/model/CharactersModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/model/EffectsModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/model/ModsModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/model/SkillsModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/repositories/BuildsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/repositories/CharactersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/repositories/EffectsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/repositories/ModsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/repositories/SkillsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/dto/RoleToUserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/security/EncoderConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/security/filters/CustomAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/security/filters/CustomAuthorizationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/securityfolder/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/services/BuildsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/services/CharactersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/services/EffectsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/services/ModsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/java/com/ironhack/tfdtheorycraftbuild/services/SkillsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/resources/CharacterTable.SQL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/resources/EffectTable.SQL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/resources/Effects.SQL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/resources/ModTable.SQL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/resources/ModsBlue.SQL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/resources/Security-Demo-Collection.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/resources/SkillsTable.SQL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAINPROJECT/TFD Theorycraft Build/src/main/resources/builds.SQL" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="VXNlcjo0Mzg1NDk=" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="C:\Users\darkn\.m2\repository" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="C:\Users\darkn\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2hHARFwukIV9BgqHhj6cNNpRAqD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.CharacterRepositoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CharacterRepositoryTest.findByRace_ShouldReturnCharacters_WhenRaceMatches.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LocationRepositoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LocationRepositoryTest.findByName_ShouldReturnLocation_WhenNameExists.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.CodyAccountHistoryMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.HelloLordOfJpaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Projects&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/darkn/IdeaProjects/week6/HelloLordOfJPA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.CharacterRepositoryTest">
+    <configuration name="CharacterRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloLordOfJPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.hellolordofjpa.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.hellolordofjpa.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.hellolordofjpa.repository.CharacterRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterRepositoryTest.findByRace_ShouldReturnCharacters_WhenRaceMatches" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloLordOfJPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.hellolordofjpa.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.hellolordofjpa.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.hellolordofjpa.repository.CharacterRepositoryTest" />
+      <option name="METHOD_NAME" value="findByRace_ShouldReturnCharacters_WhenRaceMatches" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocationRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloLordOfJPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.hellolordofjpa.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.hellolordofjpa.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.hellolordofjpa.repository.LocationRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocationRepositoryTest.findByName_ShouldReturnLocation_WhenNameExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloLordOfJPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ironhack.hellolordofjpa.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ironhack.hellolordofjpa.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ironhack.hellolordofjpa.repository.LocationRepositoryTest" />
+      <option name="METHOD_NAME" value="findByName_ShouldReturnLocation_WhenNameExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloLordOfJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="HelloLordOfJPA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ironhack.hellolordofjpa.HelloLordOfJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CharacterRepositoryTest" />
+        <item itemvalue="JUnit.LocationRepositoryTest" />
+        <item itemvalue="JUnit.LocationRepositoryTest.findByName_ShouldReturnLocation_WhenNameExists" />
+        <item itemvalue="JUnit.CharacterRepositoryTest.findByRace_ShouldReturnCharacters_WhenRaceMatches" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="580b9c56-395d-4536-ada6-800cededa978" name="Changes" comment="" />
+      <created>1717240619406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717240619406</updated>
+      <workItem from="1717240620520" duration="416000" />
+      <workItem from="1717241064448" duration="7058000" />
+      <workItem from="1717249350012" duration="833000" />
+      <workItem from="1717250496423" duration="964000" />
+      <workItem from="1717829586649" duration="3000" />
+      <workItem from="1717830135334" duration="12000" />
+      <workItem from="1717830263188" duration="163000" />
+      <workItem from="1717830430949" duration="4000" />
+      <workItem from="1717830599357" duration="32000" />
+      <workItem from="1717832366521" duration="7126000" />
+      <workItem from="1718003297802" duration="49000" />
+      <workItem from="1718003351106" duration="69000" />
+      <workItem from="1722078798964" duration="31000" />
+      <workItem from="1722079235830" duration="31000" />
+      <workItem from="1722079835129" duration="819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

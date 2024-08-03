@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f85cea4-b808-4be3-91c2-8baffa18e6db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/week 2/lab-java-standard-input-and-classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/lab-java-standard-input-and-classes/.idea/lab-java-standard-input-and-classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/lab-java-standard-input-and-classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/lab-java-standard-input-and-classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/lab-java-standard-input-and-classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/lab-java-standard-input-and-classes/Employee.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/2untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/2untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/2untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/2untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/2untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/2untitled/src/main/java/com/ironhack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/src/main/java/com/ironhack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/src/main/java/com/ironhack/WorkoutAssistant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/src/main/java/com/ironhack/partTwo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/src/main/java/com/ironhack/partTwo/NameEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/src/test/java/com/ironhack/WorkoutAssistantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/HelloTesting/src/test/java/com/ironhack/partTwo/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/Maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/Maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/Maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/Maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/Maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4/Maven/src/main/java/com/ironhack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/Week6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/Week6/.idea/Week6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/Week6/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/Week6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/Week6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/Week6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/lab-java-sql/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/lab-java-sql/.idea/cody_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/lab-java-sql/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/lab-java-sql/.idea/lab-java-sql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/lab-java-sql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/lab-java-sql/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/lab-java-sql/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/lab-java-sql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/demo/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/CharacterRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/LocationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/CharacterRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/LocationRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4Practice/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4Practice/prog-at.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 1/Loops and Version Control/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/week 1/Loops and Version Control/src/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 2/lab-java-standard-input-and-classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week 2/lab-java-standard-input-and-classes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 3/lab-java-interfaces-and-abstract-classes2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Araknemu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Araknemu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Araknemu/src/main/java/fr/quatrevieux/araknemu/network/game/in/account/AddCharacterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Araknemu/src/main/java/fr/quatrevieux/araknemu/network/game/in/account/AddCharacterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/lab-java-exceptions/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="VXNlcjo0Mzg1NDk=" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gJwBY5YMTUlzNqQSRIvnTOECAL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.CodyAccountHistoryMigration": "true",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Projects",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/darkn/IdeaProjects/Assestment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f85cea4-b808-4be3-91c2-8baffa18e6db" name="Changes" comment="" />
+      <created>1715428855014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715428855014</updated>
+      <workItem from="1715428856113" duration="71000" />
+      <workItem from="1715708999521" duration="489000" />
+      <workItem from="1715709505488" duration="12000" />
+      <workItem from="1718007531005" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

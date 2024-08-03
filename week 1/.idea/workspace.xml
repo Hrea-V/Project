@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a453232-9d16-4c01-96cf-0c9c06469179" name="Changes" comment="Task 1 done.">
+      <change beforePath="$PROJECT_DIR$/../Clases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clone/lab-learn-cloning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/Conditionals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/out/production/Conditionals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types/Data Types.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asd/asd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asd/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asdasdasd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asdasdasd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asdasdasd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asdasdasd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asdasdasd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asdasdasd/asdasdasd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/asdasdasd/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello world/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello world/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello world/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello world/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello world/Hello world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello world/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Methods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Methods/String Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String Methods/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/do while Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/do while Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/do while Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/do while Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/do while Loop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/do while Loop/do while Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/do while Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for Loop/for Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foreach Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foreach Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foreach Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foreach Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foreach Loop/foreach Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foreach Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/while Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/while Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/while Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/while Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/while Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/while Loop/while Loop.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Loops and Version Control" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fVZzpc6Z8ct5KBoeBQ1CpluLOc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/darkn/IdeaProjects/week 1&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a453232-9d16-4c01-96cf-0c9c06469179" name="Changes" comment="" />
+      <created>1713888470109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713888470109</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Better detection of min and max on an array.">
+      <option name="closed" value="true" />
+      <created>1713889120629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713889120629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Better detection of min and max on an array.">
+      <option name="closed" value="true" />
+      <created>1713889144100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713889144100</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task 2 done.">
+      <option name="closed" value="true" />
+      <created>1713890346323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713890346323</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task 3 done.">
+      <option name="closed" value="true" />
+      <created>1713936155778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713936155778</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task 1 done.">
+      <option name="closed" value="true" />
+      <created>1713936302704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713936302704</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Better detection of min and max on an array." />
+    <MESSAGE value="Task 2 done." />
+    <MESSAGE value="Task 3 done." />
+    <MESSAGE value="Task 1 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1 done." />
+  </component>
+</project>

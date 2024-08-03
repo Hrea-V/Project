@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82cc993d-44ad-423d-a6c6-1876998e12b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week 4 practice/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 4 practice/prog-at.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 4 practice/src/main/java/org/example/Kombucha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 4 practice/src/main/java/org/example/KombuchaInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 4 practice/src/test/java/org/example/KombuchaInventoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 4 practice/src/test/java/org/example/KombuchaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 1/week 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/Week 3 exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/BigDecimal/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/Interface/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/Interface/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/Interface/PlaylistManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/Interface/Setup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/videogame/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/videogame/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/videogame/Remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/videogame/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/Week 3 exercises/src/videogame/VideogameShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/assesment/assesment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clone/lab-learn-cloning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Conditionals/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Conditionals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Conditionals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Conditionals/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Conditionals/Conditionals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Conditionals/out/production/Conditionals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Conditionals/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Data Types/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Data Types/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Data Types/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Data Types/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Data Types/Data Types.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Data Types/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asd/asd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asd/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asdasdasd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asdasdasd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asdasdasd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asdasdasd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asdasdasd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asdasdasd/asdasdasd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Example/asdasdasd/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Hello world/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Hello world/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Hello world/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Hello world/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Hello world/Hello world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Hello world/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Loops and Version Control/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week 1/Loops and Version Control/src/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Operators/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Operators/Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/Operators/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/String Methods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/String Methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/String Methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/String Methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/String Methods/String Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/String Methods/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/do while Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/do while Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/do while Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/do while Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/do while Loop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/do while Loop/do while Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/do while Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/for Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/for Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/for Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/for Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/for Loop/for Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/for Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/foreach Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/foreach Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/foreach Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/foreach Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/foreach Loop/foreach Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/foreach Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/while Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/while Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/while Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/while Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/while Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1/while Loop/while Loop.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gSzwaJbNdFJ79pivfrN0dr1Gmc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Projects&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82cc993d-44ad-423d-a6c6-1876998e12b3" name="Changes" comment="" />
+      <created>1715706006408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715706006408</updated>
+      <workItem from="1715706007455" duration="929000" />
+      <workItem from="1715709522755" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

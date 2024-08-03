@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="532b1fb9-580c-4111-b9e1-e9c0e2d8d4ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Test/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BooksController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/MenuItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Drug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/PrescriptionOrderForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/DoctorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/DrugRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/PrescriptionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/demo/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/demo/DataLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/Chapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/Chapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/EventConferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/EventExpositions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/GuestConferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/GuestExpositions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/President.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/President.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/Speaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/model/Speaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/EventConferencesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/EventConferencesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/EventExpositionsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/EventExpositionsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/GuestConferencesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/GuestConferencesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/GuestExpositionsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week8/lab-java-modeling-complex-relationships/src/main/java/com/ironhack/task/repository/GuestExpositionsRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="VXNlcjo0Mzg1NDk=" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2iY4WTlrJLE2I2JJae4nHKqfJyG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.CodyAccountHistoryMigration": "true",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Demo1Application.executor": "Run",
+    "git-widget-placeholder": "Projects",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Demo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Demo1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="532b1fb9-580c-4111-b9e1-e9c0e2d8d4ca" name="Changes" comment="" />
+      <created>1719654207786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719654207786</updated>
+      <workItem from="1719654208835" duration="6011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

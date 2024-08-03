@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27c0b3ac-5d38-4505-9cc3-73ea4ed0a12b" name="Loops and Version Control" comment="Task 1 completed" />
+    <list id="7e7030d5-3cd0-4447-b054-19860a8cf9c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Clases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/lab-learn-cloning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/Conditionals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/out/production/Conditionals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Types/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Types/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Types/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Types/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Types/Data Types.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Types/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asd/asd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asd/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asdasdasd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asdasdasd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asdasdasd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asdasdasd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asdasdasd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asdasdasd/asdasdasd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/asdasdasd/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello world/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello world/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello world/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello world/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello world/Hello world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello world/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String Methods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String Methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String Methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String Methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String Methods/String Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String Methods/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../do while Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../do while Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../do while Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../do while Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../do while Loop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../do while Loop/do while Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../do while Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for Loop/for Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foreach Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foreach Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foreach Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foreach Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foreach Loop/foreach Loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foreach Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../while Loop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../while Loop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../while Loop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../while Loop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../while Loop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../while Loop/while Loop.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fN1mcSg0SRDawmsx29Ho9SpEAq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/darkn/IdeaProjects/week 1/lab-java-loops-and-version-control"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7030d5-3cd0-4447-b054-19860a8cf9c3" name="Changes" comment="" />
+      <changelist id="27c0b3ac-5d38-4505-9cc3-73ea4ed0a12b" name="Loops and Version Control" comment="" />
+      <created>1713626882642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713626882642</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Task 1 completed">
+      <option name="closed" value="true" />
+      <created>1713627172669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713627172669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1 completed" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+</project>

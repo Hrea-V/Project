@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Clases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week4Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-java-exceptions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week 1/Loops and Version Control" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week 1/lab-java-loops-and-version-control" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week 2/lab-java-standard-input-and-classes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week 3/Week4Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week 3/lab-java-interfaces-and-abstract-classes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week 3/lab-java-interfaces-and-abstract-classes2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week 4/2untitled" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week 4/HelloTesting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week 4/Maven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week4/Araknemu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week4/Week6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week4/lab-java-exceptions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week4/lab-java-intro-to-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week4/lab-java-sql" vcs="Git" />
+  </component>
+</project>

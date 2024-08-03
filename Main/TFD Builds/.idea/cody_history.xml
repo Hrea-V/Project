@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo0Mzg1NDk=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="5792bcdb-4fe1-4147-a291-fecffe806bea" />
+              </chat>
+              <chat>
+                <internalId value="cfb01b41-0878-4aef-8611-a175173271d1" />
+              </chat>
+              <chat>
+                <internalId value="2b1c62a8-82f4-4e2b-8e9f-c1cbbb285941" />
+              </chat>
+              <chat>
+                <internalId value="2e5e5a6a-0492-43b3-b61a-d93c9f616f2f" />
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="java.lang.ClassNotFoundException: com.ironhack.tfd_builds.TfdBuildsApplication" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Based on the provided context, it appears you're encountering a ClassNotFoundException for the main application class. Here are some steps to resolve this issue:&#10;&#10;1. Ensure that your project structure follows Maven conventions. The main application class should be in the src/main/java directory under the appropriate package structure.&#10;&#10;2. Verify that the com.ironhack.tfd_builds package exists and contains the TfdBuildsApplication class.&#10;&#10;3. Check your pom.xml file to make sure the Maven compiler plugin is correctly configured and the source and target Java versions are set appropriately.&#10;&#10;4. Run a Maven clean and install to rebuild your project: mvn clean install&#10;&#10;5. If using an IDE, refresh your project and rebuild it.&#10;&#10;6. Ensure that the main class is correctly specified in your Spring Boot configuration, either in the application.properties file or as a annotation on your main class.&#10;&#10;If the issue persists, you may want to double-check your classpath and ensure all dependencies are correctly resolved. The Spring Boot Maven Plugin mentioned in the reference documentation can be helpful for running and packaging your application correctly." />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-08-03T16:27:47.6669532" />
+              </chat>
+              <chat>
+                <internalId value="0949c74a-6622-4e91-8d33-ba403ea7ae5d" />
+              </chat>
+              <chat>
+                <internalId value="c4454fb6-5495-44c6-b853-53b603bfe598" />
+              </chat>
+            </list>
+          </chats>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16061c0d-184e-4355-8741-635b625038e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/demo/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/model/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/CharacterRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week6/HelloLordOfJPA/src/main/java/com/ironhack/hellolordofjpa/repository/LocationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week6/HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/CharacterRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week6/HelloLordOfJPA/src/test/java/com/ironhack/hellolordofjpa/repository/LocationRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWeb/src/main/java/com/ironhack/helloweb/config/FakerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWeb/src/main/java/com/ironhack/helloweb/controller/CoffeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWeb/src/main/java/com/ironhack/helloweb/controller/GreetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWeb/src/main/java/com/ironhack/helloweb/demo/CoffeeDataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWeb/src/main/java/com/ironhack/helloweb/model/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWeb/src/main/java/com/ironhack/helloweb/repository/CoffeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWeb/src/main/java/com/ironhack/helloweb/service/CoffeeService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="VXNlcjo0Mzg1NDk=" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2huUteghV9KoX7znfrtiy3lRjHE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.CodyAccountHistoryMigration": "true",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Projects",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\darkn\IdeaProjects\week8\task" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ironhack.task.TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16061c0d-184e-4355-8741-635b625038e5" name="Changes" comment="" />
+      <created>1718443672089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718443672089</updated>
+      <workItem from="1718443673298" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

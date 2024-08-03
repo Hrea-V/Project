@@ -1,0 +1,15 @@
+spring:
+    datasource:
+        url: jdbc:mysql://localhost:3306/chapters_db
+        username: root
+        password: 7113395
+
+    jpa:
+        hibernate:
+            ddl-auto: update
+
+        show-sql: false
+
+server:
+    error:
+        include-stacktrace: never
