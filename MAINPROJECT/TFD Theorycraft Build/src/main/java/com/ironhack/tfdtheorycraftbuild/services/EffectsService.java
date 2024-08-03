@@ -22,5 +22,14 @@ public class EffectsService {
 
 
     //Add a new effect
+    public void addEffect(String name) {
+        log.info("Adding effect: " + name);
+        effectsRepository.save(new Effect(name));
+    }
 
+    //Delete an effect
+    public void deleteEffect(Integer effectId) {
+        log.info("Deleting effect: " + effectId);
+        effectsRepository.deleteById(effectId);
+    }
 }

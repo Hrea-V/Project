@@ -49,4 +49,9 @@ public class Mod {
     private Set<Effect> effectMod = new HashSet<>();
 
 
+    public Mod(String name, String description, Integer cost) {
+        this.name = name;
+        this.description = description;
+        this.cost = cost;
+    }
 }

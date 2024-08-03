@@ -50,4 +50,10 @@ public class Character {
     private Set<Effect> effectCharacter = new HashSet<>();
     ////////////////
 
+
+    public Character(String name, Set<Skill> skillsUsed, Set<Effect> effectCharacter) {
+        this.name = name;
+        this.skillsUsed = skillsUsed;
+        this.effectCharacter = effectCharacter;
+    }
 }

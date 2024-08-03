@@ -6,9 +6,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 import static jakarta.persistence.GenerationType.IDENTITY;
 
@@ -25,17 +23,23 @@ public class Effect {
     private Integer id;
 
 
+    @Column(name = "name")
+    private String name;
+
+
     @ManyToMany(mappedBy = "effectCharacter")
     private Set<Character> character = new HashSet<>();
 
     @ManyToMany(mappedBy = "effectMod")
     private Set<Mod> mod = new HashSet<>();
 
+
     @ManyToMany(mappedBy = "effectSkill")
-    private Set<Skill> skill = new HashSet<>();
-
-    @Column(name = "value")
-    private Double value;
+    private Set<Skill> skills = new HashSet<>();
 
 
+
+    public Effect(String name) {
+        this.name = name;
+    }
 }

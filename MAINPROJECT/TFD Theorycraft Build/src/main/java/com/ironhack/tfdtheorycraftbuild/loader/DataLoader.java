@@ -1,6 +1,8 @@
 package com.ironhack.tfdtheorycraftbuild.loader;
 
 
+import com.ironhack.tfdtheorycraftbuild.securityfolder.model.Role;
+import com.ironhack.tfdtheorycraftbuild.securityfolder.model.User;
 import com.ironhack.tfdtheorycraftbuild.securityfolder.service.RoleService;
 import com.ironhack.tfdtheorycraftbuild.securityfolder.service.UserService;
 import com.ironhack.tfdtheorycraftbuild.services.BuildsService;

@@ -14,22 +14,24 @@ import java.util.List;
 public class SkillsService {
     private final SkillsRepository skillsRepository;
 
-//    //Get all skills
-//    public List<Skill> getSkills() {
-//        log.info("Getting all skills");
-//        return skillsRepository.findAll();
-//    }
-//    //Add a new skill
-//    public void addSkill(String name, String description, Integer skillEffect1, double skillValue1, Integer skillEffect2, double skillValue2, Integer skillEffect3, double skillValue3, Integer skillEffect4, double skillValue4, Integer skillEffect5, double skillValue5, Integer skillEffect6, double skillValue6, Integer skillEffect7, double skillValue7, Integer skillEffect8, double skillValue8, Integer skillEffect9, double skillValue9, Integer skillEffect10, double skillValue10) {
-//        log.info("Creating a new skill");
-//        Skill skill = new Skill(name, description, skillEffect1, skillValue1, skillEffect2, skillValue2, skillEffect3, skillValue3, skillEffect4, skillValue4, skillEffect5, skillValue5, skillEffect6, skillValue6, skillEffect7, skillValue7, skillEffect8, skillValue8, skillEffect9, skillValue9, skillEffect10, skillValue10);
-//        skillsRepository.save(skill);
-//    }
-//    //Delete a skill
-//    public void deleteSkill(Integer skillId) {
-//        log.info("Deleting skill: " + skillId);
-//        skillsRepository.deleteById(skillId);
-//    }
+    //Get all skills
+    public List<Skill> getSkills() {
+        log.info("Getting all skills");
+        return skillsRepository.findAll();
+    }
+    //add a new skill
+    public void addSkill (String name, String description, Double value) {
+        log.info("Adding skill: " + name);
+        skillsRepository.save(new Skill(name, description, value));
+    }
+
+
+    //Delete a skill
+    public void deleteSkill(Integer skillId) {
+        log.info("Deleting skill: " + skillId);
+        skillsRepository.deleteById(skillId);
+    }
+
 
 
 }

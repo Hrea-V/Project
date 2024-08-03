@@ -2,6 +2,7 @@ package com.ironhack.tfdtheorycraftbuild.model;
 
 
 import com.fasterxml.jackson.annotation.JsonInclude;
+import com.ironhack.tfdtheorycraftbuild.repositories.ModsRepository;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
@@ -10,7 +11,10 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
+import java.util.stream.Collectors;
+
 
 @Data
 @Table(name = "builds")
@@ -50,6 +54,7 @@ public class Build {
     )
     private Set<Mod> modsUsed = new LimitedHashSet<>(8);
 
+
     public void setCurrentCapacity(Integer currentCapacity) {
         if (mod != null) {
             this.currentCapacity = currentCapacity + mod.getCost();
@@ -58,5 +63,11 @@ public class Build {
         }
     }
 
-
+    public Build(String buildName, Character character, Integer maxCapacity, Integer currentCapacity, Set<Mod> modsUsed) {
+        this.buildName = buildName;
+        this.character = character;
+        this.maxCapacity = maxCapacity;
+        this.currentCapacity = currentCapacity;
+        this.modsUsed = modsUsed;
+    }
 }

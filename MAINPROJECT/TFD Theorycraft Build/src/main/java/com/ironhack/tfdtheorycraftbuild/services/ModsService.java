@@ -14,21 +14,22 @@ import java.util.List;
 public class ModsService {
     private final ModsRepository modsRepository;
 
-//    //Get all mods
-//
-//    public List<Mod> getMods() {
-//        log.info("Getting all mods");
-//        return modsRepository.findAll();
-//    }
-//    //Add a new mod
-//
-//    public void addMod(String modName, String description, Integer cost, Integer effect1, Double value1, Integer effect2, Double value2) {
-//        log.info("Adding mod: " + modName);
-//        modsRepository.save(new Mod(modName, description, cost, effect1, value1, effect2, value2));
-//    }
-//    //Delete a mod
-//    public void deleteMod(Integer modId) {
-//        log.info("Deleting mod: " + modId);
-//        modsRepository.deleteById(modId);
-//    }
+    //Get all mods
+    public List<Mod> getMods() {
+    log.info("Getting all mods");
+    return modsRepository.findAll();
+}
+    //add a new mod
+    public void addMod(String name, String description, Integer cost)
+         {
+        log.info("Adding mod: " + name);
+        modsRepository.save(new Mod(name, description, cost));
+    }
+    //Delete a mod
+    public void deleteMod(Integer modId) {
+        log.info("Deleting mod: " + modId);
+        modsRepository.deleteById(modId);
+    }
+
+
 }
