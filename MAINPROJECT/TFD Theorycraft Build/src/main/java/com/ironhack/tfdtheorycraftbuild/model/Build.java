@@ -5,6 +5,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -12,8 +13,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 @Data
-@Table( name = "builds")
+@Table(name = "builds")
 @NoArgsConstructor
+@AllArgsConstructor
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @Entity
 @ValidCapacity
@@ -25,11 +27,9 @@ public class Build {
     @Column(name = "build_name", length = 255)
     private String buildName;
 
-    ///////////////////////////
     @ManyToOne(cascade = CascadeType.ALL)
-    @JoinColumn(name ="character_id", referencedColumnName = "characters_id")
+    @JoinColumn(name = "character_id", referencedColumnName = "characters_id")
     private Character character;
-//////////////////////////////
 
     @Column(name = "max_capacity")
     @Min(value = 0, message = "Max capacity must be a positive value")
@@ -42,7 +42,6 @@ public class Build {
     @JoinColumn(name = "mod_id", referencedColumnName = "mods_id")
     private Mod mod;
 
-    /////////////////////////
     @ManyToMany
     @JoinTable(
             name = "builds_mods",
@@ -51,7 +50,13 @@ public class Build {
     )
     private Set<Mod> modsUsed = new LimitedHashSet<>(8);
 
-    //////////////////////////
+    public void setCurrentCapacity(Integer currentCapacity) {
+        if (mod != null) {
+            this.currentCapacity = currentCapacity + mod.getCost();
+        } else {
+            this.currentCapacity = currentCapacity;
+        }
+    }
 
 
 }

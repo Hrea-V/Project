@@ -2,6 +2,7 @@ package com.ironhack.tfdtheorycraftbuild.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -15,6 +16,7 @@ import static jakarta.persistence.GenerationType.IDENTITY;
 @Entity
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @NoArgsConstructor
+@AllArgsConstructor
 public class Skill {
     @Id
     @GeneratedValue( strategy = IDENTITY)

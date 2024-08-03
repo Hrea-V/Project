@@ -3,6 +3,7 @@ package com.ironhack.tfdtheorycraftbuild.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -14,6 +15,7 @@ import static jakarta.persistence.GenerationType.IDENTITY;
 @Data
 @Table(name = "mods")
 @NoArgsConstructor
+@AllArgsConstructor
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @Entity
 public class Mod {
