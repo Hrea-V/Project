@@ -1,6 +1,6 @@
 package com.ironhack.tfdtheorycraftbuild.services;
 
-import com.ironhack.tfdtheorycraftbuild.model.EffectsModel;
+import com.ironhack.tfdtheorycraftbuild.model.Effect;
 import com.ironhack.tfdtheorycraftbuild.repositories.EffectsRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -14,20 +14,20 @@ import java.util.List;
 public class EffectsService {
     private final EffectsRepository effectsRepository;
 
-    //Get all effects
-    public List<EffectsModel> getEffects() {
-        log.info("Getting all effects");
-        return effectsRepository.findAll();
-    }
-    //Add a new effect
-    public void addEffect(String effectName) {
-        log.info("Adding effect: " + effectName);
-        EffectsModel effectsModel = new EffectsModel(effectName);
-        effectsRepository.save(effectsModel);
-    }
-    //Delete an effect
-    public void deleteEffect(Integer effectId) {
-        log.info("Deleting effect: " + effectId);
-        effectsRepository.deleteById(effectId);
-    }
+//    //Get all effects
+//    public List<Effect> getEffects() {
+//        log.info("Getting all effects");
+//        return effectsRepository.findAll();
+//    }
+//    //Add a new effect
+//    public void addEffect(String effectName) {
+//        log.info("Adding effect: " + effectName);
+//        Effect effect = new Effect(effectName);
+//        effectsRepository.save(effect);
+//    }
+//    //Delete an effect
+//    public void deleteEffect(Integer effectId) {
+//        log.info("Deleting effect: " + effectId);
+//        effectsRepository.deleteById(effectId);
+//    }
 }

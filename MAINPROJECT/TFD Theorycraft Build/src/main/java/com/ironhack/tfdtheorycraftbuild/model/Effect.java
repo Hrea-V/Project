@@ -5,7 +5,9 @@ import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import static jakarta.persistence.GenerationType.IDENTITY;
 
@@ -14,23 +16,24 @@ import static jakarta.persistence.GenerationType.IDENTITY;
 @NoArgsConstructor
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @Entity
-public class EffectsModel {
+public class Effect {
     @Id
     @GeneratedValue(strategy = IDENTITY)
     @Column(name = "effect_id")
     private Integer id;
-    @Column(name="name")
-    private String name;
 
 
-    @OneToMany(mappedBy = "effect", cascade = CascadeType.ALL)
-    private List<ModsModel> mods;
-    @OneToMany(mappedBy = "effect", cascade = CascadeType.ALL)
-    private List<CharactersModel> characters;
-    @OneToMany(mappedBy = "effect", cascade = CascadeType.ALL)
-    private List<SkillsModel> skills;
+    @ManyToMany(mappedBy = "effectCharacter")
+    private Set<Character> character = new HashSet<>();
 
-    public EffectsModel(String name) {
-        this.name = name;
-    }
+    @ManyToMany(mappedBy = "effectMod")
+    private Set<Mod> mod = new HashSet<>();
+
+    @ManyToMany(mappedBy = "effectSkill")
+    private Set<Skill> skill = new HashSet<>();
+
+    @Column(name = "value")
+    private Double value;
+
+
 }
