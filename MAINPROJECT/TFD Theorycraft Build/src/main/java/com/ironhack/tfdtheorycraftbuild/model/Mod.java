@@ -30,6 +30,7 @@ public class Mod {
 
     @OneToOne(mappedBy = "mod")
     private Build build;
+    private Integer cost;
 
 
 ////////////////////////

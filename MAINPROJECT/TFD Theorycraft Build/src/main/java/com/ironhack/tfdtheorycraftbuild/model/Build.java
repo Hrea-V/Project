@@ -3,6 +3,8 @@ package com.ironhack.tfdtheorycraftbuild.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import jakarta.persistence.*;
+import jakarta.validation.constraints.Max;
+import jakarta.validation.constraints.Min;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -14,6 +16,7 @@ import java.util.Set;
 @NoArgsConstructor
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @Entity
+@ValidCapacity
 public class Build {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -29,9 +32,13 @@ public class Build {
 //////////////////////////////
 
     @Column(name = "max_capacity")
+    @Min(value = 0, message = "Max capacity must be a positive value")
     private Integer maxCapacity;
 
-    @OneToOne
+    @Max(value = Integer.MAX_VALUE, message = "Current capacity cannot exceed max capacity")
+    private Integer currentCapacity;
+
+    @OneToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "mod_id", referencedColumnName = "mods_id")
     private Mod mod;
 
