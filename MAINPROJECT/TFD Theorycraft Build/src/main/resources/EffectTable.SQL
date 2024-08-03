@@ -1,6 +1,0 @@
-CREATE TABLE IF NOT EXISTS effects
-(
-    effect_id INT NOT NULL AUTO_INCREMENT,
-    PRIMARY KEY (effect_id),
-    name VARCHAR(255) NOT NULL
-);
